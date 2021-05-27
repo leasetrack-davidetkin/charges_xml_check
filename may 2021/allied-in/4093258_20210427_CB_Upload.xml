@@ -1,0 +1,8 @@
+<TransactionList>
+    <Validation>
+        <Audit Count="3" Node="Transaction" Sum="37.50"/>
+    </Validation>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="106" ReshID="116" SiteID="4093258" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540961509"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="107" ReshID="117" SiteID="4093258" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540961510"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="111" ReshID="121" SiteID="4093258" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540961511"/>
+</TransactionList>

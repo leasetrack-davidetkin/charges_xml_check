@@ -1,0 +1,722 @@
+<chargesDtoHolder>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318517</customerId>
+        <transactionId>1619188852161</transactionId>
+        <leaseId>12980057</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318526</customerId>
+        <transactionId>1619188852162</transactionId>
+        <leaseId>12979806</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318547</customerId>
+        <transactionId>1619188852163</transactionId>
+        <leaseId>12979753</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318634</customerId>
+        <transactionId>1619188852164</transactionId>
+        <leaseId>12979982</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318672</customerId>
+        <transactionId>1619188852165</transactionId>
+        <leaseId>12979810</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318758</customerId>
+        <transactionId>1619188852166</transactionId>
+        <leaseId>12980054</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>362018</customerId>
+        <transactionId>1619188852167</transactionId>
+        <leaseId>12980011</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>362024</customerId>
+        <transactionId>1619188852168</transactionId>
+        <leaseId>12980007</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>383635</customerId>
+        <transactionId>1619188852169</transactionId>
+        <leaseId>12980070</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>428786</customerId>
+        <transactionId>1619188852170</transactionId>
+        <leaseId>12979750</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>453001</customerId>
+        <transactionId>1619188852171</transactionId>
+        <leaseId>12979957</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>464952</customerId>
+        <transactionId>1619188852172</transactionId>
+        <leaseId>12980056</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>470739</customerId>
+        <transactionId>1619188852173</transactionId>
+        <leaseId>12979945</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>482394</customerId>
+        <transactionId>1619188852174</transactionId>
+        <leaseId>12980017</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>488244</customerId>
+        <transactionId>1619188852175</transactionId>
+        <leaseId>12979860</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>496790</customerId>
+        <transactionId>1619188852176</transactionId>
+        <leaseId>12979961</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>500248</customerId>
+        <transactionId>1619188852177</transactionId>
+        <leaseId>12979875</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>512396</customerId>
+        <transactionId>1619188852178</transactionId>
+        <leaseId>12980040</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>533343</customerId>
+        <transactionId>1619188852179</transactionId>
+        <leaseId>12979997</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>557835</customerId>
+        <transactionId>1619188852180</transactionId>
+        <leaseId>12979895</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>580195</customerId>
+        <transactionId>1619188852181</transactionId>
+        <leaseId>12979979</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>585000</customerId>
+        <transactionId>1619188852182</transactionId>
+        <leaseId>12979803</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>592140</customerId>
+        <transactionId>1619188852183</transactionId>
+        <leaseId>12979815</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>594944</customerId>
+        <transactionId>1619188852184</transactionId>
+        <leaseId>12979967</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>600205</customerId>
+        <transactionId>1619188852185</transactionId>
+        <leaseId>12979795</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>600803</customerId>
+        <transactionId>1619188852186</transactionId>
+        <leaseId>12980069</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>604898</customerId>
+        <transactionId>1619188852187</transactionId>
+        <leaseId>12980087</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>625652</customerId>
+        <transactionId>1619188852188</transactionId>
+        <leaseId>12979930</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>631820</customerId>
+        <transactionId>1619188852189</transactionId>
+        <leaseId>12980042</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>671348</customerId>
+        <transactionId>1619188852190</transactionId>
+        <leaseId>12979833</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>671350</customerId>
+        <transactionId>1619188852191</transactionId>
+        <leaseId>12980084</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>673804</customerId>
+        <transactionId>1619188852192</transactionId>
+        <leaseId>12983895</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>678209</customerId>
+        <transactionId>1619188852193</transactionId>
+        <leaseId>12983468</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>680664</customerId>
+        <transactionId>1619188852194</transactionId>
+        <leaseId>12982885</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>683907</customerId>
+        <transactionId>1619188852195</transactionId>
+        <leaseId>12983704</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>691822</customerId>
+        <transactionId>1619188852196</transactionId>
+        <leaseId>12986657</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>692817</customerId>
+        <transactionId>1619188852197</transactionId>
+        <leaseId>13000822</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>701550</customerId>
+        <transactionId>1619188852198</transactionId>
+        <leaseId>12992207</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>707969</customerId>
+        <transactionId>1619188852199</transactionId>
+        <leaseId>13002000</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>732595</customerId>
+        <transactionId>1619188852200</transactionId>
+        <leaseId>13012276</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>732596</customerId>
+        <transactionId>1619188852201</transactionId>
+        <leaseId>13011950</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>735985</customerId>
+        <transactionId>1619188852202</transactionId>
+        <leaseId>13012577</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>743911</customerId>
+        <transactionId>1619188852203</transactionId>
+        <leaseId>13014561</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>751331</customerId>
+        <transactionId>1619188852204</transactionId>
+        <leaseId>13026220</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>767076</customerId>
+        <transactionId>1619188852205</transactionId>
+        <leaseId>13036718</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>772190</customerId>
+        <transactionId>1619188852206</transactionId>
+        <leaseId>13034820</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>772351</customerId>
+        <transactionId>1619188852207</transactionId>
+        <leaseId>13023685</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>790577</customerId>
+        <transactionId>1619188852208</transactionId>
+        <leaseId>13034577</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>799632</customerId>
+        <transactionId>1619188852209</transactionId>
+        <leaseId>13012504</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>831394</customerId>
+        <transactionId>1619188852210</transactionId>
+        <leaseId>13048924</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>834811</customerId>
+        <transactionId>1619188852211</transactionId>
+        <leaseId>13044027</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>867821</customerId>
+        <transactionId>1619188852212</transactionId>
+        <leaseId>13054845</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>872299</customerId>
+        <transactionId>1619188852213</transactionId>
+        <leaseId>13051031</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>874661</customerId>
+        <transactionId>1619188852214</transactionId>
+        <leaseId>13048913</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>877285</customerId>
+        <transactionId>1619188852215</transactionId>
+        <leaseId>13050245</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>880084</customerId>
+        <transactionId>1619188852216</transactionId>
+        <leaseId>13049386</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>899828</customerId>
+        <transactionId>1619188852217</transactionId>
+        <leaseId>13065213</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>935356</customerId>
+        <transactionId>1619188852218</transactionId>
+        <leaseId>13073729</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>935357</customerId>
+        <transactionId>1619188852219</transactionId>
+        <leaseId>13073378</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>980679</customerId>
+        <transactionId>1619188852220</transactionId>
+        <leaseId>13081230</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>980681</customerId>
+        <transactionId>1619188852221</transactionId>
+        <leaseId>13081256</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>994383</customerId>
+        <transactionId>1619188852222</transactionId>
+        <leaseId>13114396</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1012756</customerId>
+        <transactionId>1619188852223</transactionId>
+        <leaseId>13117363</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1012757</customerId>
+        <transactionId>1619188852224</transactionId>
+        <leaseId>13118326</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1025310</customerId>
+        <transactionId>1619188852225</transactionId>
+        <leaseId>13122647</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1043691</customerId>
+        <transactionId>1619188852226</transactionId>
+        <leaseId>13125193</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1043692</customerId>
+        <transactionId>1619188852227</transactionId>
+        <leaseId>13122779</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1043693</customerId>
+        <transactionId>1619188852228</transactionId>
+        <leaseId>13124599</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1043694</customerId>
+        <transactionId>1619188852229</transactionId>
+        <leaseId>13125338</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1043695</customerId>
+        <transactionId>1619188852230</transactionId>
+        <leaseId>13121980</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1067499</customerId>
+        <transactionId>1619188852231</transactionId>
+        <leaseId>13122458</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1070772</customerId>
+        <transactionId>1619188852232</transactionId>
+        <leaseId>13125978</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>155234</chargeCode>
+        <amount>9.95</amount>
+        <description>Insurance Exemption (05/2021)</description>
+    </charges>
+</chargesDtoHolder>

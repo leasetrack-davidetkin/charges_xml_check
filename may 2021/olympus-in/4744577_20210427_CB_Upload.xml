@@ -1,0 +1,6 @@
+<TransactionList>
+    <Validation>
+        <Audit Count="1" Node="Transaction" Sum="10.00"/>
+    </Validation>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="25" ReshID="25" SiteID="4744577" TransAmt="10.00" TransDate="2021-05-01" TransDesc="Resident Liability Compliance Fee (05/2021)" TransName="RESIDENTLIABILITYFEE" TransactionBatchID="1619538295601"/>
+</TransactionList>

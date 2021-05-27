@@ -1,0 +1,1032 @@
+<chargeDetailHolder>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>4333b1e3-9cf1-4178-b7c7-0ba53a9d00b0</CustomerID>
+        <UnitID>212</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>2917dd13-e1ca-4917-b16a-83cdb1479d1f</CustomerID>
+        <UnitID>911</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>4d3b4693-1705-404d-a9ec-ea3462f3e2b3</CustomerID>
+        <UnitID>1203</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>975ba04d-77b5-435d-aa22-96efe38ebddf</CustomerID>
+        <UnitID>101</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>0fb4da9d-812f-4de4-98d2-a760ef016556</CustomerID>
+        <UnitID>909</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>ef0e7fe8-36dc-4ab3-915d-bba859d5473a</CustomerID>
+        <UnitID>303</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>5087731b-22d7-49aa-bba6-4fec68d303df</CustomerID>
+        <UnitID>908</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>ffcc9e43-9078-4f25-9744-bcc1fe7ad68f</CustomerID>
+        <UnitID>1206</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>e1319f62-2760-45f9-bd9d-dd26e6719614</CustomerID>
+        <UnitID>501</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>aaa1ba21-abff-4af2-8cbb-5f096de3d141</CustomerID>
+        <UnitID>1405</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>f1274881-d533-4a0f-8ef4-1631120fb5a7</CustomerID>
+        <UnitID>505</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>dc0f52ee-972a-4425-a7f4-597071fbd9c7</CustomerID>
+        <UnitID>1005</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>d120d1cd-9675-48ae-bbc6-dc09bf3cddf1</CustomerID>
+        <UnitID>1207</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>3da54cbb-3c05-48be-86bb-43570e309504</CustomerID>
+        <UnitID>614</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>e3abad14-f70f-455b-9fcc-2514816f31c7</CustomerID>
+        <UnitID>1607</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>32d20314-24c4-47a0-85dd-aa777aee947f</CustomerID>
+        <UnitID>1211</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>65413da7-01b2-4253-a374-88478c8d0ac0</CustomerID>
+        <UnitID>406</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>ba79f9ee-8934-4263-b281-cf7acc8d5148</CustomerID>
+        <UnitID>1605</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>adefb55c-6f41-402a-8d0e-3b8696cb7727</CustomerID>
+        <UnitID>1507</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>542383b8-d06d-46a1-ad3f-ff26887c8b47</CustomerID>
+        <UnitID>1102</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>a9c3b414-d6af-4e34-b8b9-3e238e4104b5</CustomerID>
+        <UnitID>1516</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>4a7a8b5b-d0e9-472c-83a7-b95f802cf2e6</CustomerID>
+        <UnitID>313</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>d03d3e35-ecb2-44c5-a89d-517748c5a7d7</CustomerID>
+        <UnitID>1104</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>2b2c0d93-5338-4de9-bf30-55f401867c52</CustomerID>
+        <UnitID>1310</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>a4bf8cd9-2386-49cf-b13e-b8dd6e066107</CustomerID>
+        <UnitID>706</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>8d853627-1484-4366-8719-31ad443b2a3f</CustomerID>
+        <UnitID>1604</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>a4d499c6-a90e-46e6-bb7d-8476354e0522</CustomerID>
+        <UnitID>1204</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>b690d13d-3aaa-4515-9380-81924d31d181</CustomerID>
+        <UnitID>108</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>f469c19a-9ad9-4cde-adf7-5a559909fca4</CustomerID>
+        <UnitID>1406</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>c07a5321-10f0-44a3-8baf-edae3798e68b</CustomerID>
+        <UnitID>1402</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>af2441aa-c86f-4e1d-9471-c555db1bdaad</CustomerID>
+        <UnitID>209</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>625f7ef8-5bc6-47bc-8160-0de9da073546</CustomerID>
+        <UnitID>1007</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>13ccc893-4f08-41b8-997a-30142efb0c3b</CustomerID>
+        <UnitID>901</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>2b2a23e0-a32e-48fe-b60d-5f36992f6b5b</CustomerID>
+        <UnitID>1510</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>8cde66c1-8a68-479b-a201-bee1675b5c7a</CustomerID>
+        <UnitID>1216</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>b908abc8-adcc-4508-a9f9-e6f17c53becf</CustomerID>
+        <UnitID>105</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>94bb8a2b-6514-42ba-9c7c-af46da7305c9</CustomerID>
+        <UnitID>201</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>91fcf823-9ebb-42b4-a502-1b03ebeb36d4</CustomerID>
+        <UnitID>914</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>a7f68811-6896-4f86-9847-0b4d764747e5</CustomerID>
+        <UnitID>916</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>300686c7-4410-4ca5-bdab-ad84bea616a1</CustomerID>
+        <UnitID>1309</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>66826c8e-5d26-48a7-b8f6-5fe9e08e687a</CustomerID>
+        <UnitID>1116</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>e4c85e69-f77d-42f5-bedc-2e4fd4517c53</CustomerID>
+        <UnitID>812</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>953ddf6b-6ae4-45d6-835b-3e8f4b3c58c3</CustomerID>
+        <UnitID>515</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>eeef3354-728e-4b31-9a37-4207448dd358</CustomerID>
+        <UnitID>903</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>e3712075-7e4b-481b-8397-93a0a6782455</CustomerID>
+        <UnitID>316</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>b13e76ee-6af9-4a08-8ed7-fbf8eb56c823</CustomerID>
+        <UnitID>509</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>fbad15c5-6c86-4218-bb03-b2d0b5280ebc</CustomerID>
+        <UnitID>306</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>b1613018-0a54-44d3-a687-f97b02acd70b</CustomerID>
+        <UnitID>204</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>8a051b2e-07eb-4f90-934b-be01ac5fd5cf</CustomerID>
+        <UnitID>211</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>65ef1cf8-8b6f-428a-b969-286a767c573e</CustomerID>
+        <UnitID>801</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>aef4936d-59bf-4424-b2e8-3158a4de7f23</CustomerID>
+        <UnitID>102</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>953b1a92-4273-4cd9-b4ae-3bdad41b9121</CustomerID>
+        <UnitID>615</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>2e78ebaa-541e-40d6-aefa-f1015fb71ed8</CustomerID>
+        <UnitID>1305</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>8d397ade-6ab5-4e52-a9d3-1703ee9887a4</CustomerID>
+        <UnitID>1501</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>d9b2e9f3-d6f2-490e-9580-32bddda27112</CustomerID>
+        <UnitID>312</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>8d62e5bf-0822-42b9-8563-62fe39ec4cb6</CustomerID>
+        <UnitID>103</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>4e1ca24e-f2c6-43ea-86d3-4f4438bcbdca</CustomerID>
+        <UnitID>705</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>256646bd-a1aa-4648-b9f4-fb811142eb54</CustomerID>
+        <UnitID>104</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>c2c9ec44-1994-4d3d-8e8b-9c343dfe01ef</CustomerID>
+        <UnitID>1109</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>8b3fcc21-bcdc-4c48-88cc-65b59a34b7c2</CustomerID>
+        <UnitID>1103</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>c9781e54-8ad3-4965-b9e4-bf21358cc735</CustomerID>
+        <UnitID>1512</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>bdad2013-40a6-4461-a7a8-106e8ff53f16</CustomerID>
+        <UnitID>601</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>005dfaed-4691-4813-a5bf-92f8a2ea0be3</CustomerID>
+        <UnitID>1215</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>62e52ac2-34bb-42cb-9bcf-7a395ec760e6</CustomerID>
+        <UnitID>1205</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>03829e28-8235-4404-b65d-eaa2c4dc5c48</CustomerID>
+        <UnitID>1111</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>4a8c0b82-2e89-466a-b858-7c83f467bdcb</CustomerID>
+        <UnitID>308</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>4d84a361-2d39-4483-96d6-dd0f0b70f687</CustomerID>
+        <UnitID>804</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>ba1310ba-bd88-47a8-9bdb-b1fcdbc2c1d1</CustomerID>
+        <UnitID>714</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>f7d46ab7-2a07-46d9-8a33-fabae34314ab</CustomerID>
+        <UnitID>604</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>b32821e9-3741-4989-bbee-29151a0581be</CustomerID>
+        <UnitID>711</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>f031a9ca-087d-4d80-a4e9-23f8466003b9</CustomerID>
+        <UnitID>215</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>d78ea9f7-612e-40d4-a829-f8b2e1922ae9</CustomerID>
+        <UnitID>506</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>59c078e2-cebf-456b-8eb4-4c9df5ee1ab5</CustomerID>
+        <UnitID>311</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>584276a5-4fd3-41ac-b64c-4f44c4afb345</CustomerID>
+        <UnitID>1401</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>9ee0fdb5-de68-40da-903e-5e48ca71db18</CustomerID>
+        <UnitID>1212</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>0f127e26-2323-41f7-823d-cbb3fd4680f7</CustomerID>
+        <UnitID>1006</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>8f492e13-82f5-4f81-b883-5ada7e98102e</CustomerID>
+        <UnitID>1002</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>f9a1dcce-7142-45da-813a-a30dc4730b38</CustomerID>
+        <UnitID>213</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>75fd55a2-0616-4c02-b333-e6799e6ace0e</CustomerID>
+        <UnitID>1110</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>877d70a9-a3e8-4270-9c2f-902827d9b106</CustomerID>
+        <UnitID>1214</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>a1b87008-3185-4aa5-997e-877ce1a779b2</CustomerID>
+        <UnitID>1201</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>4e002d4b-1457-4849-adc1-4f4f6ab03dbb</CustomerID>
+        <UnitID>806</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>439a995d-9895-414e-aa0e-bca2e1a3c5d7</CustomerID>
+        <UnitID>1112</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>c46305fd-762f-4df8-b7c8-417d78dc67fe</CustomerID>
+        <UnitID>816</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>97e81d52-8639-4865-9187-af98519891fd</CustomerID>
+        <UnitID>912</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>84916e2f-2b76-4906-a6f0-f5a690313a8c</CustomerID>
+        <UnitID>1311</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>677795c6-14ee-4173-a61e-4ace9a9902a8</CustomerID>
+        <UnitID>1001</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>296da0f2-4341-4526-bfff-75b28725632f</CustomerID>
+        <UnitID>913</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>d9efd98b-3148-4d89-bb39-fc1bbbed21a3</CustomerID>
+        <UnitID>612</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>98766f88-93cd-4d3e-b4c2-84100b5cbf72</CustomerID>
+        <UnitID>1315</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>0093a82b-024a-40d7-a8a2-0fa2131395a5</CustomerID>
+        <UnitID>205</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>aebf46b7-a85b-4452-bf3c-63eb0eefe343</CustomerID>
+        <UnitID>315</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>48ade37b-bc5e-4824-b7ba-c121b64c7178</CustomerID>
+        <UnitID>1408</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>7068a134-b66e-4e26-8d7f-09c60618cdaf</CustomerID>
+        <UnitID>1307</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>f22f280d-6240-4085-91d5-5aec47c6082b</CustomerID>
+        <UnitID>603</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>e03f6997-7093-4b31-940b-09d56dc49b98</CustomerID>
+        <UnitID>1513</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>da527ac5-fb43-4857-85da-0f06980c22b4</CustomerID>
+        <UnitID>609</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>d2509548-15ec-4627-ab25-7bb6001f4f80</CustomerID>
+        <UnitID>715</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>a2657bbd-45a5-4daf-98f2-7de2137ba5f5</CustomerID>
+        <UnitID>214</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>aa6ae69c-e333-49b1-b2a9-6711bc2860b0</CustomerID>
+        <UnitID>1301</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>b22d5f90-e820-4346-b29a-589772753647</CustomerID>
+        <UnitID>915</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>2ffc0d51-d9f3-407d-a89e-c52eaa6828b1</CustomerID>
+        <UnitID>307</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>test (04/2021)</Description>
+        <TransactionDate>2021-04-19</TransactionDate>
+        <ChargeCode>test</ChargeCode>
+        <CustomerID>2bbb0a07-a4e9-46ad-814b-a72a3b68c1d7</CustomerID>
+        <UnitID>1304</UnitID>
+        <Amount>0.01</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>131e5854-4748-4027-bf02-2ae794ceda0a</PropertyPrimaryID>
+    </charges>
+</chargeDetailHolder>

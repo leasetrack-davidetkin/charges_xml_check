@@ -1,0 +1,732 @@
+<chargesDtoHolder>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318517</customerId>
+        <transactionId>1619174591490</transactionId>
+        <leaseId>12980057</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318526</customerId>
+        <transactionId>1619174591491</transactionId>
+        <leaseId>12979806</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318545</customerId>
+        <transactionId>1619174591492</transactionId>
+        <leaseId>12980081</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318547</customerId>
+        <transactionId>1619174591493</transactionId>
+        <leaseId>12979753</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318634</customerId>
+        <transactionId>1619174591494</transactionId>
+        <leaseId>12979982</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318672</customerId>
+        <transactionId>1619174591495</transactionId>
+        <leaseId>12979810</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>318758</customerId>
+        <transactionId>1619174591496</transactionId>
+        <leaseId>12980054</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>362018</customerId>
+        <transactionId>1619174591497</transactionId>
+        <leaseId>12980011</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>362024</customerId>
+        <transactionId>1619174591498</transactionId>
+        <leaseId>12980007</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>362035</customerId>
+        <transactionId>1619174591499</transactionId>
+        <leaseId>12979822</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>383635</customerId>
+        <transactionId>1619174591500</transactionId>
+        <leaseId>12980070</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>428786</customerId>
+        <transactionId>1619174591501</transactionId>
+        <leaseId>12979750</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>453001</customerId>
+        <transactionId>1619174591502</transactionId>
+        <leaseId>12979957</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>464952</customerId>
+        <transactionId>1619174591503</transactionId>
+        <leaseId>12980056</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>470739</customerId>
+        <transactionId>1619174591504</transactionId>
+        <leaseId>12979945</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>476957</customerId>
+        <transactionId>1619174591505</transactionId>
+        <leaseId>12979802</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>482394</customerId>
+        <transactionId>1619174591506</transactionId>
+        <leaseId>12980017</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>488244</customerId>
+        <transactionId>1619174591507</transactionId>
+        <leaseId>12979860</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>496790</customerId>
+        <transactionId>1619174591508</transactionId>
+        <leaseId>12979961</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>500248</customerId>
+        <transactionId>1619174591509</transactionId>
+        <leaseId>12979875</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>512396</customerId>
+        <transactionId>1619174591510</transactionId>
+        <leaseId>12980040</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>533343</customerId>
+        <transactionId>1619174591511</transactionId>
+        <leaseId>12979997</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>557835</customerId>
+        <transactionId>1619174591512</transactionId>
+        <leaseId>12979895</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>580195</customerId>
+        <transactionId>1619174591513</transactionId>
+        <leaseId>12979979</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>587725</customerId>
+        <transactionId>1619174591514</transactionId>
+        <leaseId>12980051</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>588680</customerId>
+        <transactionId>1619174591515</transactionId>
+        <leaseId>13095716</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>590042</customerId>
+        <transactionId>1619174591516</transactionId>
+        <leaseId>12979846</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>592140</customerId>
+        <transactionId>1619174591517</transactionId>
+        <leaseId>12979815</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>594944</customerId>
+        <transactionId>1619174591518</transactionId>
+        <leaseId>12979967</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>600205</customerId>
+        <transactionId>1619174591519</transactionId>
+        <leaseId>12979795</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>600803</customerId>
+        <transactionId>1619174591520</transactionId>
+        <leaseId>12980069</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>604898</customerId>
+        <transactionId>1619174591521</transactionId>
+        <leaseId>12980087</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>625652</customerId>
+        <transactionId>1619174591522</transactionId>
+        <leaseId>12979930</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>631820</customerId>
+        <transactionId>1619174591523</transactionId>
+        <leaseId>12980042</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>671348</customerId>
+        <transactionId>1619174591524</transactionId>
+        <leaseId>12979833</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>671350</customerId>
+        <transactionId>1619174591525</transactionId>
+        <leaseId>12980084</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>673804</customerId>
+        <transactionId>1619174591526</transactionId>
+        <leaseId>12983895</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>678209</customerId>
+        <transactionId>1619174591527</transactionId>
+        <leaseId>12983468</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>680664</customerId>
+        <transactionId>1619174591528</transactionId>
+        <leaseId>12982885</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>683907</customerId>
+        <transactionId>1619174591529</transactionId>
+        <leaseId>12983704</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>691822</customerId>
+        <transactionId>1619174591530</transactionId>
+        <leaseId>12986657</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>692817</customerId>
+        <transactionId>1619174591531</transactionId>
+        <leaseId>13000822</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>701550</customerId>
+        <transactionId>1619174591532</transactionId>
+        <leaseId>12992207</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>707969</customerId>
+        <transactionId>1619174591533</transactionId>
+        <leaseId>13002000</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>732595</customerId>
+        <transactionId>1619174591534</transactionId>
+        <leaseId>13012276</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>732596</customerId>
+        <transactionId>1619174591535</transactionId>
+        <leaseId>13011950</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>735985</customerId>
+        <transactionId>1619174591536</transactionId>
+        <leaseId>13012577</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>743911</customerId>
+        <transactionId>1619174591537</transactionId>
+        <leaseId>13014561</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>751330</customerId>
+        <transactionId>1619174591538</transactionId>
+        <leaseId>13018148</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>751331</customerId>
+        <transactionId>1619174591539</transactionId>
+        <leaseId>13026220</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>767076</customerId>
+        <transactionId>1619174591540</transactionId>
+        <leaseId>13036718</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>772190</customerId>
+        <transactionId>1619174591541</transactionId>
+        <leaseId>13034820</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>772351</customerId>
+        <transactionId>1619174591542</transactionId>
+        <leaseId>13023685</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>790577</customerId>
+        <transactionId>1619174591543</transactionId>
+        <leaseId>13034577</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>799632</customerId>
+        <transactionId>1619174591544</transactionId>
+        <leaseId>13012504</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>831394</customerId>
+        <transactionId>1619174591545</transactionId>
+        <leaseId>13048924</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>834811</customerId>
+        <transactionId>1619174591546</transactionId>
+        <leaseId>13044027</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>867821</customerId>
+        <transactionId>1619174591547</transactionId>
+        <leaseId>13054845</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>872299</customerId>
+        <transactionId>1619174591548</transactionId>
+        <leaseId>13051031</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>874661</customerId>
+        <transactionId>1619174591549</transactionId>
+        <leaseId>13048913</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>877285</customerId>
+        <transactionId>1619174591550</transactionId>
+        <leaseId>13050245</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>880084</customerId>
+        <transactionId>1619174591551</transactionId>
+        <leaseId>13049386</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>899828</customerId>
+        <transactionId>1619174591552</transactionId>
+        <leaseId>13065213</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>935356</customerId>
+        <transactionId>1619174591553</transactionId>
+        <leaseId>13073729</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>935357</customerId>
+        <transactionId>1619174591554</transactionId>
+        <leaseId>13073378</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>980679</customerId>
+        <transactionId>1619174591555</transactionId>
+        <leaseId>13081230</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>980680</customerId>
+        <transactionId>1619174591556</transactionId>
+        <leaseId>13094091</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>980681</customerId>
+        <transactionId>1619174591557</transactionId>
+        <leaseId>13081256</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>994383</customerId>
+        <transactionId>1619174591558</transactionId>
+        <leaseId>13114396</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1012756</customerId>
+        <transactionId>1619174591559</transactionId>
+        <leaseId>13117363</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1012757</customerId>
+        <transactionId>1619174591560</transactionId>
+        <leaseId>13118326</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1012759</customerId>
+        <transactionId>1619174591561</transactionId>
+        <leaseId>13118045</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>754971</communityId>
+        <customerId>1025310</customerId>
+        <transactionId>1619174591562</transactionId>
+        <leaseId>13122647</leaseId>
+        <serviceToDate>2021-04-23</serviceToDate>
+        <chargeCode>test</chargeCode>
+        <amount>0.01</amount>
+        <description>test (04/2021)</description>
+    </charges>
+</chargesDtoHolder>

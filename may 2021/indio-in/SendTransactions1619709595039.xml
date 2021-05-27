@@ -1,0 +1,82 @@
+<chargeDetailHolder>
+    <charges>
+        <Description>Property Liability Program (05/2021)</Description>
+        <TransactionDate>2021-05-01</TransactionDate>
+        <ChargeCode>RTRINSINC</ChargeCode>
+        <CustomerID>ffe10f35-fab1-498b-bf6c-2e181e3c71bc</CustomerID>
+        <UnitID>201</UnitID>
+        <Amount>15.00</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>738b659a-4f1f-4358-8083-650b42de56a7</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>Property Liability Program (05/2021)</Description>
+        <TransactionDate>2021-05-01</TransactionDate>
+        <ChargeCode>RTRINSINC</ChargeCode>
+        <CustomerID>6c2aacf1-b446-472d-9314-067f5c6d769e</CustomerID>
+        <UnitID>110A</UnitID>
+        <Amount>15.00</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>738b659a-4f1f-4358-8083-650b42de56a7</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>Property Liability Program (05/2021)</Description>
+        <TransactionDate>2021-05-01</TransactionDate>
+        <ChargeCode>RTRINSINC</ChargeCode>
+        <CustomerID>d2662cd0-9a88-4d05-b8f6-99ef7276e530</CustomerID>
+        <UnitID>204</UnitID>
+        <Amount>15.00</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>738b659a-4f1f-4358-8083-650b42de56a7</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>Property Liability Program (05/2021)</Description>
+        <TransactionDate>2021-05-01</TransactionDate>
+        <ChargeCode>RTRINSINC</ChargeCode>
+        <CustomerID>bc1cabb1-fbb1-43d4-95ef-ce319f225e7f</CustomerID>
+        <UnitID>209</UnitID>
+        <Amount>15.00</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>738b659a-4f1f-4358-8083-650b42de56a7</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>Property Liability Program (05/2021)</Description>
+        <TransactionDate>2021-05-01</TransactionDate>
+        <ChargeCode>RTRINSINC</ChargeCode>
+        <CustomerID>df8f9b13-6f46-4f23-bb7e-b25a4c7b08ce</CustomerID>
+        <UnitID>105</UnitID>
+        <Amount>15.00</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>738b659a-4f1f-4358-8083-650b42de56a7</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>Property Liability Program (05/2021)</Description>
+        <TransactionDate>2021-05-01</TransactionDate>
+        <ChargeCode>RTRINSINC</ChargeCode>
+        <CustomerID>945f4565-1ea3-446c-92a9-d6440c682f50</CustomerID>
+        <UnitID>205</UnitID>
+        <Amount>15.00</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>738b659a-4f1f-4358-8083-650b42de56a7</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>Property Liability Program (05/2021)</Description>
+        <TransactionDate>2021-05-01</TransactionDate>
+        <ChargeCode>RTRINSINC</ChargeCode>
+        <CustomerID>8cc22b45-c663-4823-a6d7-b101c87f76e0</CustomerID>
+        <UnitID>206</UnitID>
+        <Amount>15.00</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>738b659a-4f1f-4358-8083-650b42de56a7</PropertyPrimaryID>
+    </charges>
+    <charges>
+        <Description>Property Liability Program (05/2021)</Description>
+        <TransactionDate>2021-05-01</TransactionDate>
+        <ChargeCode>RTRINSINC</ChargeCode>
+        <CustomerID>795ef20b-ce6b-485b-886f-beb71cc24057</CustomerID>
+        <UnitID>208</UnitID>
+        <Amount>15.00</Amount>
+        <BatchID>0</BatchID>
+        <PropertyPrimaryID>738b659a-4f1f-4358-8083-650b42de56a7</PropertyPrimaryID>
+    </charges>
+</chargeDetailHolder>

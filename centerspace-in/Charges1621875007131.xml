@@ -1,0 +1,466 @@
+<chargesHolder>
+    <charges>
+        <NameID>HO00424933</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>HO00424973</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>HO00424980</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400463802</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>HO00424990</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400493410</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>HO00425009</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400450473</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>HO00425038</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>HO00425041</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400504282</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400434114</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>HO00425061</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400454965</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>HO00425076</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400499457</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400446965</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400494078</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400468078</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400460077</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>HO00425141</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>HO00426717</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>HO00425176</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>HO00425199</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400508758</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400467270</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400514616</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400517791</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400524779</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400547896</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400560392</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400570419</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400552379</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400587657</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400587019</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400588516</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400593646</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400589571</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400593784</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400598053</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400600779</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400596236</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400602223</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400602804</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400600835</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400594895</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400604150</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400602228</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400606642</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400606685</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400610278</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400609898</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400611832</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400616058</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400614720</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400615180</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400614424</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+    <charges>
+        <NameID>A400615535</NameID>
+        <ChgCode>EXE</ChgCode>
+        <Amount>15.00</Amount>
+        <EffectiveDate>2021-06-01</EffectiveDate>
+        <ActionType>Add</ActionType>
+        <Description>Insurance Exemption (06/2021)</Description>
+    </charges>
+</chargesHolder>

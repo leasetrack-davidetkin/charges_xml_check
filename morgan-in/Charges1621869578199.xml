@@ -1,0 +1,158 @@
+<chargeDetailsHolder xmlns:MITS="http://my-company.com/namespace" xmlns:ns3="http://yardi.com/ResidentTransactions20">
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3242723</ns3:CustomerID>
+        <ns3:UnitID>11-G</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>343302</customerECId>
+    </charges>
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3242710</ns3:CustomerID>
+        <ns3:UnitID>08-B</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>343318</customerECId>
+    </charges>
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3242726</ns3:CustomerID>
+        <ns3:UnitID>07-I</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>343361</customerECId>
+    </charges>
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3242805</ns3:CustomerID>
+        <ns3:UnitID>08-C</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>671883</customerECId>
+    </charges>
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3242815</ns3:CustomerID>
+        <ns3:UnitID>01-H</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>682008</customerECId>
+    </charges>
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3271142</ns3:CustomerID>
+        <ns3:UnitID>01-A</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>728716</customerECId>
+    </charges>
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3275099</ns3:CustomerID>
+        <ns3:UnitID>12-B</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>740882</customerECId>
+    </charges>
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3293610</ns3:CustomerID>
+        <ns3:UnitID>06-C</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>770238</customerECId>
+    </charges>
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3286498</ns3:CustomerID>
+        <ns3:UnitID>12-I</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>784237</customerECId>
+    </charges>
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3307994</ns3:CustomerID>
+        <ns3:UnitID>04-H</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>814904</customerECId>
+    </charges>
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3309585</ns3:CustomerID>
+        <ns3:UnitID>03-I</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>833302</customerECId>
+    </charges>
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3322049</ns3:CustomerID>
+        <ns3:UnitID>01-F</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>888647</customerECId>
+    </charges>
+    <charges>
+        <ns3:TransactionDate>2021-06-01</ns3:TransactionDate>
+        <ns3:ServiceToDate>2021-06-01</ns3:ServiceToDate>
+        <ns3:ChargeCode>insopout</ns3:ChargeCode>
+        <ns3:GLAccountNumber>42170500</ns3:GLAccountNumber>
+        <ns3:CustomerID>t3375271</ns3:CustomerID>
+        <ns3:UnitID>02-B</ns3:UnitID>
+        <ns3:Amount>9.95</ns3:Amount>
+        <ns3:Comment>Insurance Exemption (06/2021)</ns3:Comment>
+        <ns3:PropertyPrimaryID>6328</ns3:PropertyPrimaryID>
+        <customerECId>1071917</customerECId>
+    </charges>
+</chargeDetailsHolder>

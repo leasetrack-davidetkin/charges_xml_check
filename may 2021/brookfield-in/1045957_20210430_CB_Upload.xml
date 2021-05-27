@@ -1,0 +1,7 @@
+<TransactionList>
+    <Validation>
+        <Audit Count="2" Node="Transaction" Sum="30.00"/>
+    </Validation>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="53406" ReshID="32018" SiteID="1045957" TransAmt="15.00" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812007045"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="53413" ReshID="32022" SiteID="1045957" TransAmt="15.00" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812007046"/>
+</TransactionList>

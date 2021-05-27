@@ -1,0 +1,11 @@
+<TransactionList>
+    <Validation>
+        <Audit Count="6" Node="Transaction" Sum="90.00"/>
+    </Validation>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="117257" ReshID="73481" SiteID="1034405" TransAmt="15.00" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812003421"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="117134" ReshID="114378" SiteID="1034405" TransAmt="15.00" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812003422"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="117208" ReshID="114433" SiteID="1034405" TransAmt="15.00" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812003423"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="117209" ReshID="114434" SiteID="1034405" TransAmt="15.00" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812003424"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="117269" ReshID="114472" SiteID="1034405" TransAmt="15.00" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812003425"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="117260" ReshID="114465" SiteID="1034405" TransAmt="15.00" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812003426"/>
+</TransactionList>

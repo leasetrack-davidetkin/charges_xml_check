@@ -1,0 +1,15 @@
+<TransactionList>
+    <Validation>
+        <Audit Count="10" Node="Transaction" Sum="167.50"/>
+    </Validation>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="20974" ReshID="10561" SiteID="4455268" TransAmt="16.75" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812007635"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="20912" ReshID="20815" SiteID="4455268" TransAmt="16.75" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812007636"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="20941" ReshID="20835" SiteID="4455268" TransAmt="16.75" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812007637"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="20956" ReshID="20845" SiteID="4455268" TransAmt="16.75" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812007638"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="20957" ReshID="20846" SiteID="4455268" TransAmt="16.75" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812007639"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="20964" ReshID="20852" SiteID="4455268" TransAmt="16.75" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812007640"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="20971" ReshID="20856" SiteID="4455268" TransAmt="16.75" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812007641"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="20973" ReshID="20858" SiteID="4455268" TransAmt="16.75" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812007642"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="20976" ReshID="20859" SiteID="4455268" TransAmt="16.75" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812007643"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="20997" ReshID="20876" SiteID="4455268" TransAmt="16.75" TransDate="2021-05-01" TransDesc="Insurance Program (05/2021)" TransName="INSURE" TransactionBatchID="1619812007644"/>
+</TransactionList>

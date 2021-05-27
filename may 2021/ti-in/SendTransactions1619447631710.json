@@ -1,0 +1,12 @@
+<chargesDtoHolder>
+    <charges>
+        <communityId>544120</communityId>
+        <customerId>1075975</customerId>
+        <transactionId>1619447631710</transactionId>
+        <leaseId>14978012</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+</chargesDtoHolder>

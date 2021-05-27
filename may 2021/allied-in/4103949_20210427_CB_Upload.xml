@@ -1,0 +1,17 @@
+<TransactionList>
+    <Validation>
+        <Audit Count="12" Node="Transaction" Sum="150.00"/>
+    </Validation>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="10113" ReshID="9" SiteID="4103949" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540960515"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="10114" ReshID="13" SiteID="4103949" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540960516"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="10102" ReshID="15" SiteID="4103949" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540960517"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="10096" ReshID="10041" SiteID="4103949" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540960518"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="10103" ReshID="10043" SiteID="4103949" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540960519"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="10106" ReshID="10075" SiteID="4103949" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540960520"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="10094" ReshID="10094" SiteID="4103949" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540960521"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="10097" ReshID="10096" SiteID="4103949" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540960522"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="10101" ReshID="10100" SiteID="4103949" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540960523"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="10107" ReshID="10102" SiteID="4103949" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540960524"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="10110" ReshID="10104" SiteID="4103949" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540960525"/>
+    <Transaction CatCode="C" FiscalPeriodEnd="N" LeaID="10111" ReshID="10045" SiteID="4103949" TransAmt="12.50" TransDate="2021-05-01" TransDesc="Tenant Legal Liability (05/2021)" TransName="ICF" TransactionBatchID="1619540960526"/>
+</TransactionList>

@@ -1,0 +1,1523 @@
+<chargesDtoHolder>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780485</customerId>
+        <transactionId>1617853101746</transactionId>
+        <leaseId>26e08686-6720-42a1-b9ee-c940fa75e71c</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780486</customerId>
+        <transactionId>1617853101747</transactionId>
+        <leaseId>3e256df1-efc0-4930-9060-fa606e8617f8</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780487</customerId>
+        <transactionId>1617853101748</transactionId>
+        <leaseId>0a606ba4-17f8-4fd2-b6bf-c7461cd2563d</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780488</customerId>
+        <transactionId>1617853101749</transactionId>
+        <leaseId>1305703f-5fde-40e5-bb04-5807d7d26661</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780489</customerId>
+        <transactionId>1617853101750</transactionId>
+        <leaseId>7bf1efca-6b3c-45fb-b46d-5f04d9a4a037</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780490</customerId>
+        <transactionId>1617853101751</transactionId>
+        <leaseId>97ac722d-a98a-484f-8164-b83cc85a7ad7</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780491</customerId>
+        <transactionId>1617853101752</transactionId>
+        <leaseId>5e77d8d8-644a-492e-84d4-0cce022bb7a1</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780492</customerId>
+        <transactionId>1617853101753</transactionId>
+        <leaseId>76713523-cbfc-427f-883b-931d39e8ca70</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780493</customerId>
+        <transactionId>1617853101754</transactionId>
+        <leaseId>d784b7c3-7df1-4e6f-9f5c-26377e394e4e</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780494</customerId>
+        <transactionId>1617853101755</transactionId>
+        <leaseId>c8cc820d-7b54-4073-a37a-c779577c3278</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780495</customerId>
+        <transactionId>1617853101756</transactionId>
+        <leaseId>311c7a46-e7ab-4f4c-b089-0bbf5cbd204c</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780496</customerId>
+        <transactionId>1617853101757</transactionId>
+        <leaseId>9a07e486-daa5-496c-a65a-9535496f9689</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780497</customerId>
+        <transactionId>1617853101758</transactionId>
+        <leaseId>85a1ce52-c1b1-4bcd-82c3-7bfd10283fdd</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780498</customerId>
+        <transactionId>1617853101759</transactionId>
+        <leaseId>5e2a295c-76d6-401f-a793-6cbb72f62afc</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780499</customerId>
+        <transactionId>1617853101760</transactionId>
+        <leaseId>2bd73319-ac7f-4275-b05f-1d011474e232</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780500</customerId>
+        <transactionId>1617853101761</transactionId>
+        <leaseId>eeecc095-46f8-446f-b023-47871de0f37b</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780501</customerId>
+        <transactionId>1617853101762</transactionId>
+        <leaseId>a6aca379-38af-451a-aa93-8fe340d4cb0c</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780502</customerId>
+        <transactionId>1617853101763</transactionId>
+        <leaseId>4b76cca1-7e21-4c95-9150-080212c48c41</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780503</customerId>
+        <transactionId>1617853101764</transactionId>
+        <leaseId>81a99301-ed41-4df9-963f-355a8ef3a699</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780504</customerId>
+        <transactionId>1617853101765</transactionId>
+        <leaseId>549aac6d-c2f1-405b-92b1-a10ba4319e6c</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780505</customerId>
+        <transactionId>1617853101766</transactionId>
+        <leaseId>ea392fc3-0230-459c-9159-79b526b43b1b</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780508</customerId>
+        <transactionId>1617853101767</transactionId>
+        <leaseId>801a83fa-d8b8-4d0a-9000-0954b57383b1</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780509</customerId>
+        <transactionId>1617853101768</transactionId>
+        <leaseId>eb6a2d6f-c404-4801-a4a5-8cc4dbed5abd</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780510</customerId>
+        <transactionId>1617853101769</transactionId>
+        <leaseId>809f53cf-22ce-4906-b4cb-4b5786ba0b74</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780512</customerId>
+        <transactionId>1617853101770</transactionId>
+        <leaseId>2a7d6e09-99d0-468c-b8ba-fb8b97e1cbc9</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780513</customerId>
+        <transactionId>1617853101771</transactionId>
+        <leaseId>317f0463-d90e-4f48-a1d2-a62588878419</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780514</customerId>
+        <transactionId>1617853101772</transactionId>
+        <leaseId>93690426-4c5a-4aa0-a661-8b80e45423fd</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780515</customerId>
+        <transactionId>1617853101773</transactionId>
+        <leaseId>a20cf21b-0a9b-4771-a0e0-d92b2bc21eb4</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780516</customerId>
+        <transactionId>1617853101774</transactionId>
+        <leaseId>8d54aace-1acd-4322-802f-92406bab82e8</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780517</customerId>
+        <transactionId>1617853101775</transactionId>
+        <leaseId>bffc2435-351a-46f5-af8e-c3e2e12c39f3</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780519</customerId>
+        <transactionId>1617853101776</transactionId>
+        <leaseId>d7a56ff6-93b1-4b6a-87a7-5415da9c1cda</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780522</customerId>
+        <transactionId>1617853101777</transactionId>
+        <leaseId>1c8e3c21-c352-4e6e-a30f-bc0e71b595a8</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780523</customerId>
+        <transactionId>1617853101778</transactionId>
+        <leaseId>bb65d676-88ab-4fea-a6c1-38a14e0d3e63</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780524</customerId>
+        <transactionId>1617853101779</transactionId>
+        <leaseId>aa917e15-8e83-44f6-aba2-a77ccc07aafb</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780525</customerId>
+        <transactionId>1617853101780</transactionId>
+        <leaseId>dc77234c-ef5f-44ca-90dd-dd6617b11c81</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780526</customerId>
+        <transactionId>1617853101781</transactionId>
+        <leaseId>8a046c20-264d-4a05-a9ff-b7ddef7e64b6</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780527</customerId>
+        <transactionId>1617853101782</transactionId>
+        <leaseId>1145ad51-4b89-4d88-a880-9cfe13879038</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780528</customerId>
+        <transactionId>1617853101783</transactionId>
+        <leaseId>54aea939-4947-4994-8bc4-d5916dddc4b1</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780529</customerId>
+        <transactionId>1617853101784</transactionId>
+        <leaseId>f2071e9d-fc2a-4f21-8f01-8f31e967c5b1</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780530</customerId>
+        <transactionId>1617853101785</transactionId>
+        <leaseId>4f304dc0-060c-4aee-846e-718f615c5ed2</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780531</customerId>
+        <transactionId>1617853101786</transactionId>
+        <leaseId>4d240012-7dac-4f7c-bc3d-e98799d79fa5</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780532</customerId>
+        <transactionId>1617853101787</transactionId>
+        <leaseId>423c4bcc-bc94-46be-b9c1-af3c78364be8</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780533</customerId>
+        <transactionId>1617853101788</transactionId>
+        <leaseId>42310d70-7433-4736-b37e-eddbf7b0315a</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780534</customerId>
+        <transactionId>1617853101789</transactionId>
+        <leaseId>b9ba6a13-ce40-4ea2-b6da-805bdd159be3</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780535</customerId>
+        <transactionId>1617853101790</transactionId>
+        <leaseId>e12366ae-766d-4b94-b099-886a7664418a</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780536</customerId>
+        <transactionId>1617853101791</transactionId>
+        <leaseId>75d07a8a-c3b9-474d-9fcd-239085ba3fce</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780537</customerId>
+        <transactionId>1617853101792</transactionId>
+        <leaseId>b9703a26-cffe-4a1d-a8f0-de4cd27b468a</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780538</customerId>
+        <transactionId>1617853101793</transactionId>
+        <leaseId>8388df75-94d1-463f-9837-786788c4b65b</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780539</customerId>
+        <transactionId>1617853101794</transactionId>
+        <leaseId>14d76616-b991-4634-ab85-c210b311ff20</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780540</customerId>
+        <transactionId>1617853101795</transactionId>
+        <leaseId>06e32a96-9148-4cf4-bf9d-9a7156808d73</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780541</customerId>
+        <transactionId>1617853101796</transactionId>
+        <leaseId>6b150ffe-8cd1-4c8e-a095-18e242c8db89</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780542</customerId>
+        <transactionId>1617853101797</transactionId>
+        <leaseId>c7b30c0c-204d-4998-82ea-caca75d5b0bc</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780543</customerId>
+        <transactionId>1617853101798</transactionId>
+        <leaseId>03b6a9c9-d024-4ce1-8957-174eae65f16a</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780544</customerId>
+        <transactionId>1617853101799</transactionId>
+        <leaseId>f9cba038-d57d-42c2-ac75-1f3b177d7f00</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780545</customerId>
+        <transactionId>1617853101800</transactionId>
+        <leaseId>4088e5fd-9fdb-4413-83fc-cf37731667be</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780546</customerId>
+        <transactionId>1617853101801</transactionId>
+        <leaseId>900bb4cd-ce42-4661-8b7d-49a46e4929ca</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780547</customerId>
+        <transactionId>1617853101802</transactionId>
+        <leaseId>f11e8a27-363d-4a7c-87a9-47c08e7f2f9a</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780548</customerId>
+        <transactionId>1617853101803</transactionId>
+        <leaseId>4e270fd6-de8c-4920-a2e9-c7a8b24622fd</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780549</customerId>
+        <transactionId>1617853101804</transactionId>
+        <leaseId>422dcca3-93da-451b-9945-9199fc2b3f2a</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780550</customerId>
+        <transactionId>1617853101805</transactionId>
+        <leaseId>922bccb8-4cbe-405f-9c37-d32fea73d105</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780551</customerId>
+        <transactionId>1617853101806</transactionId>
+        <leaseId>34f58d68-5db1-42ea-8e05-643b9473f8b8</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780552</customerId>
+        <transactionId>1617853101807</transactionId>
+        <leaseId>adfa0d93-4712-49a6-961e-74e8d9bd0065</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780553</customerId>
+        <transactionId>1617853101808</transactionId>
+        <leaseId>7dc3fdc0-bddf-4db4-8333-74782ce8001c</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780554</customerId>
+        <transactionId>1617853101809</transactionId>
+        <leaseId>b5af0a21-746c-44ff-af56-8ff078d89410</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780555</customerId>
+        <transactionId>1617853101810</transactionId>
+        <leaseId>6a00292c-ca30-40dc-98ff-abc3d0c5f3b6</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780556</customerId>
+        <transactionId>1617853101811</transactionId>
+        <leaseId>91c81c99-95c5-4440-b139-a01dc4fa4dfe</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780557</customerId>
+        <transactionId>1617853101812</transactionId>
+        <leaseId>c700ab69-b95b-4bb6-bfb4-bfdcfc67af65</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780558</customerId>
+        <transactionId>1617853101813</transactionId>
+        <leaseId>b880541f-6608-443a-8522-468be649fcdb</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780559</customerId>
+        <transactionId>1617853101814</transactionId>
+        <leaseId>cb02339e-6df4-4a08-bcb4-89bf14bf9fea</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780560</customerId>
+        <transactionId>1617853101815</transactionId>
+        <leaseId>9f98d535-1a28-48d9-aca6-fb20cfd7d4ba</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780561</customerId>
+        <transactionId>1617853101816</transactionId>
+        <leaseId>e1a55d4b-4a25-4a79-b22d-165eb15ed188</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780562</customerId>
+        <transactionId>1617853101817</transactionId>
+        <leaseId>0a8bbbaf-7eb4-452a-9705-6113782db15f</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780563</customerId>
+        <transactionId>1617853101818</transactionId>
+        <leaseId>9c759ba7-43d3-47de-9325-3d6764626275</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780564</customerId>
+        <transactionId>1617853101819</transactionId>
+        <leaseId>25cf31d8-6ae1-4894-afad-40228cb32596</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780565</customerId>
+        <transactionId>1617853101820</transactionId>
+        <leaseId>fad83f61-42a2-41c4-a883-fafb8ac57540</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780566</customerId>
+        <transactionId>1617853101821</transactionId>
+        <leaseId>7ee02692-451e-45b6-83dc-58a20db28d43</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780567</customerId>
+        <transactionId>1617853101822</transactionId>
+        <leaseId>86c4f8d6-fb5f-4cf8-8571-46ba3114248f</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780568</customerId>
+        <transactionId>1617853101823</transactionId>
+        <leaseId>50cf8e12-5d30-4c97-a906-ef9f5e3d9efd</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780569</customerId>
+        <transactionId>1617853101824</transactionId>
+        <leaseId>6267401a-3e89-4eec-9e74-6c049569a450</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780570</customerId>
+        <transactionId>1617853101825</transactionId>
+        <leaseId>e47b2f20-e63c-4885-9a69-4d94cf1c20ff</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780571</customerId>
+        <transactionId>1617853101826</transactionId>
+        <leaseId>cdc049a7-4922-4e99-a5c9-578b85d01288</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780572</customerId>
+        <transactionId>1617853101827</transactionId>
+        <leaseId>4728425f-8e74-4373-9bb6-f29b292bdf29</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780573</customerId>
+        <transactionId>1617853101828</transactionId>
+        <leaseId>50f241bc-7cad-441a-863f-a143377f4581</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780574</customerId>
+        <transactionId>1617853101829</transactionId>
+        <leaseId>31da7e8d-7792-45fc-99ae-674f4b42165e</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780575</customerId>
+        <transactionId>1617853101830</transactionId>
+        <leaseId>50e36529-af60-4a8a-8fc6-ce7beea42a2d</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780576</customerId>
+        <transactionId>1617853101831</transactionId>
+        <leaseId>378fa005-134e-47fe-b3f8-2f232331cc37</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780577</customerId>
+        <transactionId>1617853101832</transactionId>
+        <leaseId>7a86c829-8aae-462f-a080-d039db0b9ceb</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780578</customerId>
+        <transactionId>1617853101833</transactionId>
+        <leaseId>6f9d19ed-4143-43f7-950c-0cf2d7a240d4</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780579</customerId>
+        <transactionId>1617853101834</transactionId>
+        <leaseId>79a8581f-1640-40b8-af23-7114fd8d6664</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780580</customerId>
+        <transactionId>1617853101835</transactionId>
+        <leaseId>c600fc82-bcbe-4f1f-b058-210b88ceaf70</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780581</customerId>
+        <transactionId>1617853101836</transactionId>
+        <leaseId>550e65a5-978a-4b0f-a833-d4078721ba29</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780582</customerId>
+        <transactionId>1617853101837</transactionId>
+        <leaseId>6e275c63-799a-4dfc-8c5c-f788696644de</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780583</customerId>
+        <transactionId>1617853101838</transactionId>
+        <leaseId>ac0d0d15-f476-4fc8-8640-6c8a41bc98d4</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780584</customerId>
+        <transactionId>1617853101839</transactionId>
+        <leaseId>03483860-8ba3-4bd9-b635-93c460ae5433</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780585</customerId>
+        <transactionId>1617853101840</transactionId>
+        <leaseId>09964ef8-d1a1-4874-b4ff-ed3f075a2df0</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780586</customerId>
+        <transactionId>1617853101841</transactionId>
+        <leaseId>abde86dc-8d0d-433a-b682-c84c2e88ba6f</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780589</customerId>
+        <transactionId>1617853101842</transactionId>
+        <leaseId>a3351749-2066-4330-bec8-43c0c3d782a2</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780590</customerId>
+        <transactionId>1617853101843</transactionId>
+        <leaseId>7418400a-7bb7-49a5-a272-c742f4855024</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780591</customerId>
+        <transactionId>1617853101844</transactionId>
+        <leaseId>d4a77c80-2d4c-4952-9b29-6e0ee647fb2e</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780592</customerId>
+        <transactionId>1617853101845</transactionId>
+        <leaseId>465a63ee-7e6f-44f2-b830-efe5a164e06d</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780593</customerId>
+        <transactionId>1617853101846</transactionId>
+        <leaseId>9f929c7c-5651-4ce7-980c-b805f2fe6477</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780594</customerId>
+        <transactionId>1617853101847</transactionId>
+        <leaseId>cfbd946c-9bbe-42c5-8580-bcd36686c8bb</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780596</customerId>
+        <transactionId>1617853101848</transactionId>
+        <leaseId>9b7420a2-b0d7-4313-b26d-4251c0b56251</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780597</customerId>
+        <transactionId>1617853101849</transactionId>
+        <leaseId>9a0aefb8-4272-483f-be41-ccc1ce65cedf</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780599</customerId>
+        <transactionId>1617853101850</transactionId>
+        <leaseId>52649baa-66c3-4f2f-948d-fa2f81ab9d97</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780600</customerId>
+        <transactionId>1617853101851</transactionId>
+        <leaseId>8a2a5614-8686-485c-9404-ad6bb4fd6633</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780601</customerId>
+        <transactionId>1617853101852</transactionId>
+        <leaseId>0c7ff141-bac9-41bd-b13b-e4eccc15793d</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780602</customerId>
+        <transactionId>1617853101853</transactionId>
+        <leaseId>3f292aa3-c19f-4eae-a4ca-4a647f5a1f37</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780603</customerId>
+        <transactionId>1617853101854</transactionId>
+        <leaseId>f8e8630c-5173-486d-9238-2e85481b00bc</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780604</customerId>
+        <transactionId>1617853101855</transactionId>
+        <leaseId>829f97f7-b364-40f2-aae4-9d2a91d484ce</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780605</customerId>
+        <transactionId>1617853101856</transactionId>
+        <leaseId>c9e98ac7-3e1e-498a-9dd0-bdce62e4ed80</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780606</customerId>
+        <transactionId>1617853101857</transactionId>
+        <leaseId>d30b80c6-c78e-4548-bb1b-356a3e492b7b</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780607</customerId>
+        <transactionId>1617853101858</transactionId>
+        <leaseId>a7175ebe-ff68-4433-a7f0-aaef6eb5fff3</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780608</customerId>
+        <transactionId>1617853101859</transactionId>
+        <leaseId>e0323f59-6b52-4168-aafe-343cfb4e2f7d</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780609</customerId>
+        <transactionId>1617853101860</transactionId>
+        <leaseId>b2107304-14b9-42aa-b706-c27a80f25ac1</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780610</customerId>
+        <transactionId>1617853101861</transactionId>
+        <leaseId>fefb219b-3c9d-4321-acad-60b7eebbb7a9</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780611</customerId>
+        <transactionId>1617853101862</transactionId>
+        <leaseId>d690f8dd-8cbc-4f04-bea0-ef2705739bbe</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780612</customerId>
+        <transactionId>1617853101863</transactionId>
+        <leaseId>f7b849f3-ab7b-4aff-ae4f-7a1a3a0ee74d</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780613</customerId>
+        <transactionId>1617853101864</transactionId>
+        <leaseId>59bfd625-20cb-4356-944b-485b56ca6df9</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780614</customerId>
+        <transactionId>1617853101865</transactionId>
+        <leaseId>71108e40-538e-46c0-b32e-fb1af7aad9d8</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780615</customerId>
+        <transactionId>1617853101866</transactionId>
+        <leaseId>e83e3463-a143-40e7-8dd5-6806a1e771df</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780616</customerId>
+        <transactionId>1617853101867</transactionId>
+        <leaseId>b3d7b2cc-352b-4be9-9f29-2385b3c2439c</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780617</customerId>
+        <transactionId>1617853101868</transactionId>
+        <leaseId>a3d65aa4-e775-441d-b39f-7449a04a5e16</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780619</customerId>
+        <transactionId>1617853101869</transactionId>
+        <leaseId>de07beb2-4d86-4c74-b18b-27421b0dacd2</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780620</customerId>
+        <transactionId>1617853101870</transactionId>
+        <leaseId>038ebc35-7e86-4477-97ae-fb58c19b29c5</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780622</customerId>
+        <transactionId>1617853101871</transactionId>
+        <leaseId>eec99576-03dc-4d5e-b214-1c59932c3b6f</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780623</customerId>
+        <transactionId>1617853101872</transactionId>
+        <leaseId>6daab846-55aa-45b4-841f-db25d010d44b</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780624</customerId>
+        <transactionId>1617853101873</transactionId>
+        <leaseId>8d0bfbcc-d677-4a6f-8837-2faa19da9c69</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780625</customerId>
+        <transactionId>1617853101874</transactionId>
+        <leaseId>3cf2a87f-a417-41c8-9da8-292a4bf16d16</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780626</customerId>
+        <transactionId>1617853101875</transactionId>
+        <leaseId>0a8e32dc-6d5c-4d9d-bf72-d8af62847e4a</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780627</customerId>
+        <transactionId>1617853101876</transactionId>
+        <leaseId>3200106f-c5a7-4c33-bf56-01783522590c</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780628</customerId>
+        <transactionId>1617853101877</transactionId>
+        <leaseId>b07fb565-a4f7-46e3-9961-4461b48cfec0</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780629</customerId>
+        <transactionId>1617853101878</transactionId>
+        <leaseId>f632b990-e6e9-4303-8885-072a28c92e9c</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780630</customerId>
+        <transactionId>1617853101879</transactionId>
+        <leaseId>eb0ba080-c0df-4535-bdfa-66ea3e15b653</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780631</customerId>
+        <transactionId>1617853101880</transactionId>
+        <leaseId>4f07bad2-4e2f-46da-a2ee-37c858e7bdbf</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780632</customerId>
+        <transactionId>1617853101881</transactionId>
+        <leaseId>c28ab2c9-021d-4720-9e71-a0f8c43a89c0</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780633</customerId>
+        <transactionId>1617853101882</transactionId>
+        <leaseId>70a0dca0-b297-4eba-b78e-82015d7368af</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780634</customerId>
+        <transactionId>1617853101883</transactionId>
+        <leaseId>f0cd1a78-c438-4100-80b1-1638d22c1948</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780635</customerId>
+        <transactionId>1617853101884</transactionId>
+        <leaseId>f1c0e695-0cbd-4ec4-9386-b411ae7429cb</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780636</customerId>
+        <transactionId>1617853101885</transactionId>
+        <leaseId>580783cc-0cfd-450d-8121-37c6d1649531</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780637</customerId>
+        <transactionId>1617853101886</transactionId>
+        <leaseId>154f8367-e0ed-483a-a18d-7fe334c27871</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780639</customerId>
+        <transactionId>1617853101887</transactionId>
+        <leaseId>0f30bf7c-5651-4f17-94fa-46d6d36e9dde</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780640</customerId>
+        <transactionId>1617853101888</transactionId>
+        <leaseId>b93837bc-c1da-4187-8c4e-93270693da66</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780641</customerId>
+        <transactionId>1617853101889</transactionId>
+        <leaseId>a006d9f3-be65-4165-aaae-7e3ab5bf9404</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780642</customerId>
+        <transactionId>1617853101890</transactionId>
+        <leaseId>3017b124-b58b-4b29-ba36-841a20ca0592</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780643</customerId>
+        <transactionId>1617853101891</transactionId>
+        <leaseId>b8ea6eb6-0e35-4b38-9157-3428e7498011</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780645</customerId>
+        <transactionId>1617853101892</transactionId>
+        <leaseId>cc6d8906-2a75-4cad-827c-5b8321f34fbe</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780646</customerId>
+        <transactionId>1617853101893</transactionId>
+        <leaseId>e5d67c8d-e6f4-41c4-b205-b242f4ca7e09</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780647</customerId>
+        <transactionId>1617853101894</transactionId>
+        <leaseId>9a150fe1-83b5-42be-863b-bdbb8daa3946</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780648</customerId>
+        <transactionId>1617853101895</transactionId>
+        <leaseId>9fcb6dde-ee78-4a11-9085-393e571b80b9</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780649</customerId>
+        <transactionId>1617853101896</transactionId>
+        <leaseId>f8941381-6c27-4005-b12f-55fbc20bdfb6</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780650</customerId>
+        <transactionId>1617853101897</transactionId>
+        <leaseId>f3457b6b-6cfe-41fd-9395-0895e84e7535</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780651</customerId>
+        <transactionId>1617853101898</transactionId>
+        <leaseId>5760c8ac-2ad6-4613-be9a-f15101a80471</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780653</customerId>
+        <transactionId>1617853101899</transactionId>
+        <leaseId>8f1c7b03-c59a-458b-9f29-416272dad138</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780654</customerId>
+        <transactionId>1617853101900</transactionId>
+        <leaseId>e962ca68-1445-466d-bc96-745ec2ba5c9b</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780655</customerId>
+        <transactionId>1617853101901</transactionId>
+        <leaseId>a36b025a-b5ac-423a-8e05-9478d3bf3ad4</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780656</customerId>
+        <transactionId>1617853101902</transactionId>
+        <leaseId>c33081a9-28d3-4b68-9ab4-d2193c9c0f56</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>780657</customerId>
+        <transactionId>1617853101903</transactionId>
+        <leaseId>6f5b18e1-a00e-4cd1-95a5-8063955191ef</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>783720</customerId>
+        <transactionId>1617853101904</transactionId>
+        <leaseId>fb8e8214-e3e6-4dc2-8994-23a3264a1bd7</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>784095</customerId>
+        <transactionId>1617853101905</transactionId>
+        <leaseId>4ee7037a-f5ac-46d3-9bf1-aa3c3d81a53d</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>784096</customerId>
+        <transactionId>1617853101906</transactionId>
+        <leaseId>d6e675f3-489a-45c3-a22b-2ba9a88829ea</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>785159</customerId>
+        <transactionId>1617853101907</transactionId>
+        <leaseId>1ac70122-80e1-4363-b059-e04835c9d077</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>785160</customerId>
+        <transactionId>1617853101908</transactionId>
+        <leaseId>a531eea6-6ff7-479b-be64-7df24b004726</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>785161</customerId>
+        <transactionId>1617853101909</transactionId>
+        <leaseId>8cf06e7d-f68d-4e2c-8b09-4cbfada080b3</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>785162</customerId>
+        <transactionId>1617853101910</transactionId>
+        <leaseId>898fa1e2-00ca-4470-9d5c-19edc70c5dbe</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>785163</customerId>
+        <transactionId>1617853101911</transactionId>
+        <leaseId>853c59c6-bf11-458d-abe1-5692fd22248b</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>785164</customerId>
+        <transactionId>1617853101912</transactionId>
+        <leaseId>1c7eb2dd-a5cb-4a48-a770-1d664616ead5</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>785165</customerId>
+        <transactionId>1617853101913</transactionId>
+        <leaseId>c2d09f3c-cf38-40ab-8382-0af9daa4fdb7</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+    <charges>
+        <communityId>d9eb7c03-155f-441d-ae9f-f5a87f74dc60</communityId>
+        <customerId>786863</customerId>
+        <transactionId>1617853101914</transactionId>
+        <leaseId>532d3a38-da26-4684-860a-836c305956b4</leaseId>
+        <serviceToDate>2021-04-08</serviceToDate>
+        <amount>1.7</amount>
+        <description>Test Desc (04/2021)</description>
+    </charges>
+</chargesDtoHolder>

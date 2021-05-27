@@ -1,0 +1,1482 @@
+<chargesDtoHolder>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819900</customerId>
+        <transactionId>1621865647993</transactionId>
+        <leaseId>15053830</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819901</customerId>
+        <transactionId>1621865647994</transactionId>
+        <leaseId>14876087</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819905</customerId>
+        <transactionId>1621865647995</transactionId>
+        <leaseId>14876238</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819906</customerId>
+        <transactionId>1621865647996</transactionId>
+        <leaseId>14977686</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819909</customerId>
+        <transactionId>1621865647997</transactionId>
+        <leaseId>14876030</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819911</customerId>
+        <transactionId>1621865647998</transactionId>
+        <leaseId>15027158</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819915</customerId>
+        <transactionId>1621865647999</transactionId>
+        <leaseId>14876049</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819919</customerId>
+        <transactionId>1621865648000</transactionId>
+        <leaseId>14883834</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819920</customerId>
+        <transactionId>1621865648001</transactionId>
+        <leaseId>14876039</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819921</customerId>
+        <transactionId>1621865648002</transactionId>
+        <leaseId>14876040</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819922</customerId>
+        <transactionId>1621865648003</transactionId>
+        <leaseId>14875993</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819925</customerId>
+        <transactionId>1621865648004</transactionId>
+        <leaseId>14876084</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819928</customerId>
+        <transactionId>1621865648005</transactionId>
+        <leaseId>14876147</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819929</customerId>
+        <transactionId>1621865648006</transactionId>
+        <leaseId>14876037</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819932</customerId>
+        <transactionId>1621865648007</transactionId>
+        <leaseId>14876180</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819933</customerId>
+        <transactionId>1621865648008</transactionId>
+        <leaseId>14876152</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819938</customerId>
+        <transactionId>1621865648009</transactionId>
+        <leaseId>14876197</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819943</customerId>
+        <transactionId>1621865648010</transactionId>
+        <leaseId>14876071</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819944</customerId>
+        <transactionId>1621865648011</transactionId>
+        <leaseId>14876016</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819945</customerId>
+        <transactionId>1621865648012</transactionId>
+        <leaseId>14876091</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819948</customerId>
+        <transactionId>1621865648013</transactionId>
+        <leaseId>14876158</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819949</customerId>
+        <transactionId>1621865648014</transactionId>
+        <leaseId>14876053</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819953</customerId>
+        <transactionId>1621865648015</transactionId>
+        <leaseId>14876118</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819957</customerId>
+        <transactionId>1621865648016</transactionId>
+        <leaseId>14876137</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819960</customerId>
+        <transactionId>1621865648017</transactionId>
+        <leaseId>14876054</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819962</customerId>
+        <transactionId>1621865648018</transactionId>
+        <leaseId>14875987</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819968</customerId>
+        <transactionId>1621865648019</transactionId>
+        <leaseId>15042418</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819969</customerId>
+        <transactionId>1621865648020</transactionId>
+        <leaseId>15027058</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819982</customerId>
+        <transactionId>1621865648021</transactionId>
+        <leaseId>14876232</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819985</customerId>
+        <transactionId>1621865648022</transactionId>
+        <leaseId>14876029</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819987</customerId>
+        <transactionId>1621865648023</transactionId>
+        <leaseId>14875973</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819988</customerId>
+        <transactionId>1621865648024</transactionId>
+        <leaseId>14876103</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819990</customerId>
+        <transactionId>1621865648025</transactionId>
+        <leaseId>14876055</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819993</customerId>
+        <transactionId>1621865648026</transactionId>
+        <leaseId>15013943</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819994</customerId>
+        <transactionId>1621865648027</transactionId>
+        <leaseId>14880883</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819996</customerId>
+        <transactionId>1621865648028</transactionId>
+        <leaseId>14876072</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>819997</customerId>
+        <transactionId>1621865648029</transactionId>
+        <leaseId>14876174</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820004</customerId>
+        <transactionId>1621865648030</transactionId>
+        <leaseId>14875964</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820006</customerId>
+        <transactionId>1621865648031</transactionId>
+        <leaseId>14876077</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820008</customerId>
+        <transactionId>1621865648032</transactionId>
+        <leaseId>14879803</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820010</customerId>
+        <transactionId>1621865648033</transactionId>
+        <leaseId>14876063</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820023</customerId>
+        <transactionId>1621865648034</transactionId>
+        <leaseId>14897402</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820025</customerId>
+        <transactionId>1621865648035</transactionId>
+        <leaseId>14876121</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820027</customerId>
+        <transactionId>1621865648036</transactionId>
+        <leaseId>14876112</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820031</customerId>
+        <transactionId>1621865648037</transactionId>
+        <leaseId>14876065</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820037</customerId>
+        <transactionId>1621865648038</transactionId>
+        <leaseId>14876155</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820038</customerId>
+        <transactionId>1621865648039</transactionId>
+        <leaseId>14876178</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820047</customerId>
+        <transactionId>1621865648040</transactionId>
+        <leaseId>14875970</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820058</customerId>
+        <transactionId>1621865648041</transactionId>
+        <leaseId>14876198</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820063</customerId>
+        <transactionId>1621865648042</transactionId>
+        <leaseId>14876075</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820065</customerId>
+        <transactionId>1621865648043</transactionId>
+        <leaseId>14876100</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820066</customerId>
+        <transactionId>1621865648044</transactionId>
+        <leaseId>14876231</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820068</customerId>
+        <transactionId>1621865648045</transactionId>
+        <leaseId>14876124</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820073</customerId>
+        <transactionId>1621865648046</transactionId>
+        <leaseId>14876183</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820075</customerId>
+        <transactionId>1621865648047</transactionId>
+        <leaseId>14876135</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820076</customerId>
+        <transactionId>1621865648048</transactionId>
+        <leaseId>14875979</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820079</customerId>
+        <transactionId>1621865648049</transactionId>
+        <leaseId>14876088</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820083</customerId>
+        <transactionId>1621865648050</transactionId>
+        <leaseId>14876167</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820085</customerId>
+        <transactionId>1621865648051</transactionId>
+        <leaseId>14876173</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820094</customerId>
+        <transactionId>1621865648052</transactionId>
+        <leaseId>14875958</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820096</customerId>
+        <transactionId>1621865648053</transactionId>
+        <leaseId>14876417</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820099</customerId>
+        <transactionId>1621865648054</transactionId>
+        <leaseId>14876024</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820104</customerId>
+        <transactionId>1621865648055</transactionId>
+        <leaseId>14876230</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820108</customerId>
+        <transactionId>1621865648056</transactionId>
+        <leaseId>14876000</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820109</customerId>
+        <transactionId>1621865648057</transactionId>
+        <leaseId>14875988</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820112</customerId>
+        <transactionId>1621865648058</transactionId>
+        <leaseId>14880225</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820113</customerId>
+        <transactionId>1621865648059</transactionId>
+        <leaseId>14882505</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820118</customerId>
+        <transactionId>1621865648060</transactionId>
+        <leaseId>14876165</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820130</customerId>
+        <transactionId>1621865648061</transactionId>
+        <leaseId>14876073</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820131</customerId>
+        <transactionId>1621865648062</transactionId>
+        <leaseId>15072027</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820138</customerId>
+        <transactionId>1621865648063</transactionId>
+        <leaseId>14876273</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820143</customerId>
+        <transactionId>1621865648064</transactionId>
+        <leaseId>14876082</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820146</customerId>
+        <transactionId>1621865648065</transactionId>
+        <leaseId>14876142</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820148</customerId>
+        <transactionId>1621865648066</transactionId>
+        <leaseId>15037495</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820153</customerId>
+        <transactionId>1621865648067</transactionId>
+        <leaseId>14876048</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820156</customerId>
+        <transactionId>1621865648068</transactionId>
+        <leaseId>14876272</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820161</customerId>
+        <transactionId>1621865648069</transactionId>
+        <leaseId>14876224</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820167</customerId>
+        <transactionId>1621865648070</transactionId>
+        <leaseId>14876060</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820168</customerId>
+        <transactionId>1621865648071</transactionId>
+        <leaseId>14876213</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820170</customerId>
+        <transactionId>1621865648072</transactionId>
+        <leaseId>14875997</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820171</customerId>
+        <transactionId>1621865648073</transactionId>
+        <leaseId>14876202</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820174</customerId>
+        <transactionId>1621865648074</transactionId>
+        <leaseId>14876095</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820175</customerId>
+        <transactionId>1621865648075</transactionId>
+        <leaseId>14876120</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820184</customerId>
+        <transactionId>1621865648076</transactionId>
+        <leaseId>14876132</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820185</customerId>
+        <transactionId>1621865648077</transactionId>
+        <leaseId>14876225</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>820186</customerId>
+        <transactionId>1621865648078</transactionId>
+        <leaseId>14875967</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>832258</customerId>
+        <transactionId>1621865648079</transactionId>
+        <leaseId>14888676</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>832259</customerId>
+        <transactionId>1621865648080</transactionId>
+        <leaseId>15032268</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>832854</customerId>
+        <transactionId>1621865648081</transactionId>
+        <leaseId>14881126</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>864626</customerId>
+        <transactionId>1621865648082</transactionId>
+        <leaseId>14900184</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>896752</customerId>
+        <transactionId>1621865648083</transactionId>
+        <leaseId>14928772</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>896753</customerId>
+        <transactionId>1621865648084</transactionId>
+        <leaseId>15036241</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>896754</customerId>
+        <transactionId>1621865648085</transactionId>
+        <leaseId>14915307</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>922913</customerId>
+        <transactionId>1621865648086</transactionId>
+        <leaseId>14927534</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>922989</customerId>
+        <transactionId>1621865648087</transactionId>
+        <leaseId>14932080</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>923009</customerId>
+        <transactionId>1621865648088</transactionId>
+        <leaseId>14927667</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>923064</customerId>
+        <transactionId>1621865648089</transactionId>
+        <leaseId>14927350</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>923079</customerId>
+        <transactionId>1621865648090</transactionId>
+        <leaseId>14926313</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>927979</customerId>
+        <transactionId>1621865648091</transactionId>
+        <leaseId>14947333</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>929985</customerId>
+        <transactionId>1621865648092</transactionId>
+        <leaseId>14929821</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>935810</customerId>
+        <transactionId>1621865648093</transactionId>
+        <leaseId>14950320</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>935870</customerId>
+        <transactionId>1621865648094</transactionId>
+        <leaseId>14950210</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>935886</customerId>
+        <transactionId>1621865648095</transactionId>
+        <leaseId>14940359</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>935896</customerId>
+        <transactionId>1621865648096</transactionId>
+        <leaseId>14946288</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>935897</customerId>
+        <transactionId>1621865648097</transactionId>
+        <leaseId>14951423</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>935915</customerId>
+        <transactionId>1621865648098</transactionId>
+        <leaseId>14949484</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>937146</customerId>
+        <transactionId>1621865648099</transactionId>
+        <leaseId>14943206</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>937148</customerId>
+        <transactionId>1621865648100</transactionId>
+        <leaseId>14957680</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>937161</customerId>
+        <transactionId>1621865648101</transactionId>
+        <leaseId>14953939</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>939046</customerId>
+        <transactionId>1621865648102</transactionId>
+        <leaseId>14941003</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>962718</customerId>
+        <transactionId>1621865648103</transactionId>
+        <leaseId>15033894</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>966285</customerId>
+        <transactionId>1621865648104</transactionId>
+        <leaseId>14965316</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>968532</customerId>
+        <transactionId>1621865648105</transactionId>
+        <leaseId>14952954</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>968533</customerId>
+        <transactionId>1621865648106</transactionId>
+        <leaseId>14965915</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>968535</customerId>
+        <transactionId>1621865648107</transactionId>
+        <leaseId>14963789</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>968537</customerId>
+        <transactionId>1621865648108</transactionId>
+        <leaseId>15033975</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>976420</customerId>
+        <transactionId>1621865648109</transactionId>
+        <leaseId>14976100</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>976421</customerId>
+        <transactionId>1621865648110</transactionId>
+        <leaseId>14974481</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>976425</customerId>
+        <transactionId>1621865648111</transactionId>
+        <leaseId>14977861</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>976427</customerId>
+        <transactionId>1621865648112</transactionId>
+        <leaseId>14954798</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>981470</customerId>
+        <transactionId>1621865648113</transactionId>
+        <leaseId>15004081</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>982347</customerId>
+        <transactionId>1621865648114</transactionId>
+        <leaseId>15004232</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>983370</customerId>
+        <transactionId>1621865648115</transactionId>
+        <leaseId>15007655</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>983372</customerId>
+        <transactionId>1621865648116</transactionId>
+        <leaseId>15003586</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>983373</customerId>
+        <transactionId>1621865648117</transactionId>
+        <leaseId>15003705</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>986797</customerId>
+        <transactionId>1621865648118</transactionId>
+        <leaseId>15002226</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>986798</customerId>
+        <transactionId>1621865648119</transactionId>
+        <leaseId>15013509</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>989482</customerId>
+        <transactionId>1621865648120</transactionId>
+        <leaseId>15008607</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>996169</customerId>
+        <transactionId>1621865648121</transactionId>
+        <leaseId>15016326</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1012760</customerId>
+        <transactionId>1621865648122</transactionId>
+        <leaseId>15014054</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1043591</customerId>
+        <transactionId>1621865648123</transactionId>
+        <leaseId>15042444</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1044418</customerId>
+        <transactionId>1621865648124</transactionId>
+        <leaseId>15042732</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1068943</customerId>
+        <transactionId>1621865648125</transactionId>
+        <leaseId>15045591</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1069547</customerId>
+        <transactionId>1621865648126</transactionId>
+        <leaseId>15046077</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1070250</customerId>
+        <transactionId>1621865648127</transactionId>
+        <leaseId>15045642</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1074460</customerId>
+        <transactionId>1621865648128</transactionId>
+        <leaseId>15050428</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1076641</customerId>
+        <transactionId>1621865648129</transactionId>
+        <leaseId>15048763</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1089514</customerId>
+        <transactionId>1621865648130</transactionId>
+        <leaseId>15048661</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1089515</customerId>
+        <transactionId>1621865648131</transactionId>
+        <leaseId>15049260</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1089517</customerId>
+        <transactionId>1621865648132</transactionId>
+        <leaseId>15048771</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1089518</customerId>
+        <transactionId>1621865648133</transactionId>
+        <leaseId>15053305</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1089519</customerId>
+        <transactionId>1621865648134</transactionId>
+        <leaseId>15047108</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1089520</customerId>
+        <transactionId>1621865648135</transactionId>
+        <leaseId>15057152</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1089791</customerId>
+        <transactionId>1621865648136</transactionId>
+        <leaseId>15047140</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1098463</customerId>
+        <transactionId>1621865648137</transactionId>
+        <leaseId>15066947</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1103241</customerId>
+        <transactionId>1621865648138</transactionId>
+        <leaseId>15064420</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1105818</customerId>
+        <transactionId>1621865648139</transactionId>
+        <leaseId>15052106</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+    <charges>
+        <communityId>1029224</communityId>
+        <customerId>1109454</customerId>
+        <transactionId>1621865648140</transactionId>
+        <leaseId>15053584</leaseId>
+        <serviceToDate>2021-06-01</serviceToDate>
+        <chargeCode>200092</chargeCode>
+        <amount>12.50</amount>
+        <description>Tenant Legal Liability (06/2021)</description>
+    </charges>
+</chargesDtoHolder>

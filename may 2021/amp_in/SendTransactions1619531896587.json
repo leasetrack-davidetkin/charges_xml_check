@@ -1,0 +1,3952 @@
+<chargesDtoHolder>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909827</customerId>
+        <transactionId>1619531896586</transactionId>
+        <leaseId>13719325</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909829</customerId>
+        <transactionId>1619531896587</transactionId>
+        <leaseId>13719871</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909830</customerId>
+        <transactionId>1619531896588</transactionId>
+        <leaseId>13719575</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909831</customerId>
+        <transactionId>1619531896589</transactionId>
+        <leaseId>13826333</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909833</customerId>
+        <transactionId>1619531896590</transactionId>
+        <leaseId>13719522</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909834</customerId>
+        <transactionId>1619531896591</transactionId>
+        <leaseId>13719762</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909835</customerId>
+        <transactionId>1619531896592</transactionId>
+        <leaseId>13843798</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909837</customerId>
+        <transactionId>1619531896593</transactionId>
+        <leaseId>13719869</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909840</customerId>
+        <transactionId>1619531896594</transactionId>
+        <leaseId>13719614</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909843</customerId>
+        <transactionId>1619531896595</transactionId>
+        <leaseId>13719347</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909846</customerId>
+        <transactionId>1619531896596</transactionId>
+        <leaseId>13747683</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909847</customerId>
+        <transactionId>1619531896597</transactionId>
+        <leaseId>13837585</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909851</customerId>
+        <transactionId>1619531896598</transactionId>
+        <leaseId>13719760</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909853</customerId>
+        <transactionId>1619531896599</transactionId>
+        <leaseId>13820846</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909854</customerId>
+        <transactionId>1619531896600</transactionId>
+        <leaseId>13719390</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909855</customerId>
+        <transactionId>1619531896601</transactionId>
+        <leaseId>13757729</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909861</customerId>
+        <transactionId>1619531896602</transactionId>
+        <leaseId>13746581</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909865</customerId>
+        <transactionId>1619531896603</transactionId>
+        <leaseId>13924370</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909870</customerId>
+        <transactionId>1619531896604</transactionId>
+        <leaseId>13719673</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909871</customerId>
+        <transactionId>1619531896605</transactionId>
+        <leaseId>13719410</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909872</customerId>
+        <transactionId>1619531896606</transactionId>
+        <leaseId>13857837</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909873</customerId>
+        <transactionId>1619531896607</transactionId>
+        <leaseId>13905969</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909874</customerId>
+        <transactionId>1619531896608</transactionId>
+        <leaseId>13719431</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909879</customerId>
+        <transactionId>1619531896609</transactionId>
+        <leaseId>13742070</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909880</customerId>
+        <transactionId>1619531896610</transactionId>
+        <leaseId>13819743</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909884</customerId>
+        <transactionId>1619531896611</transactionId>
+        <leaseId>13800143</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909885</customerId>
+        <transactionId>1619531896612</transactionId>
+        <leaseId>13789039</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909886</customerId>
+        <transactionId>1619531896613</transactionId>
+        <leaseId>13720054</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909887</customerId>
+        <transactionId>1619531896614</transactionId>
+        <leaseId>13719248</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909888</customerId>
+        <transactionId>1619531896615</transactionId>
+        <leaseId>13719346</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909890</customerId>
+        <transactionId>1619531896616</transactionId>
+        <leaseId>13818923</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909897</customerId>
+        <transactionId>1619531896617</transactionId>
+        <leaseId>13719492</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909899</customerId>
+        <transactionId>1619531896618</transactionId>
+        <leaseId>13719797</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909900</customerId>
+        <transactionId>1619531896619</transactionId>
+        <leaseId>13719471</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909905</customerId>
+        <transactionId>1619531896620</transactionId>
+        <leaseId>13720041</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909909</customerId>
+        <transactionId>1619531896621</transactionId>
+        <leaseId>13835512</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909914</customerId>
+        <transactionId>1619531896622</transactionId>
+        <leaseId>13719253</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909918</customerId>
+        <transactionId>1619531896623</transactionId>
+        <leaseId>13719589</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909919</customerId>
+        <transactionId>1619531896624</transactionId>
+        <leaseId>13719272</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909924</customerId>
+        <transactionId>1619531896625</transactionId>
+        <leaseId>13719424</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909926</customerId>
+        <transactionId>1619531896626</transactionId>
+        <leaseId>13832711</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909930</customerId>
+        <transactionId>1619531896627</transactionId>
+        <leaseId>13719402</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909931</customerId>
+        <transactionId>1619531896628</transactionId>
+        <leaseId>13828938</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909932</customerId>
+        <transactionId>1619531896629</transactionId>
+        <leaseId>13719314</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909936</customerId>
+        <transactionId>1619531896630</transactionId>
+        <leaseId>13719524</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909939</customerId>
+        <transactionId>1619531896631</transactionId>
+        <leaseId>13719677</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909949</customerId>
+        <transactionId>1619531896632</transactionId>
+        <leaseId>13841687</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909951</customerId>
+        <transactionId>1619531896633</transactionId>
+        <leaseId>13719479</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909952</customerId>
+        <transactionId>1619531896634</transactionId>
+        <leaseId>13764890</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909953</customerId>
+        <transactionId>1619531896635</transactionId>
+        <leaseId>13924446</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909955</customerId>
+        <transactionId>1619531896636</transactionId>
+        <leaseId>13830048</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909956</customerId>
+        <transactionId>1619531896637</transactionId>
+        <leaseId>13840520</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909958</customerId>
+        <transactionId>1619531896638</transactionId>
+        <leaseId>13719622</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909959</customerId>
+        <transactionId>1619531896639</transactionId>
+        <leaseId>13719831</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909962</customerId>
+        <transactionId>1619531896640</transactionId>
+        <leaseId>13719845</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909965</customerId>
+        <transactionId>1619531896641</transactionId>
+        <leaseId>13810203</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909967</customerId>
+        <transactionId>1619531896642</transactionId>
+        <leaseId>13719415</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909969</customerId>
+        <transactionId>1619531896643</transactionId>
+        <leaseId>13719590</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909973</customerId>
+        <transactionId>1619531896644</transactionId>
+        <leaseId>13792541</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909976</customerId>
+        <transactionId>1619531896645</transactionId>
+        <leaseId>13832020</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909979</customerId>
+        <transactionId>1619531896646</transactionId>
+        <leaseId>13719518</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909981</customerId>
+        <transactionId>1619531896647</transactionId>
+        <leaseId>13751841</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909988</customerId>
+        <transactionId>1619531896648</transactionId>
+        <leaseId>13754770</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>909993</customerId>
+        <transactionId>1619531896649</transactionId>
+        <leaseId>13719531</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910004</customerId>
+        <transactionId>1619531896650</transactionId>
+        <leaseId>13719852</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910012</customerId>
+        <transactionId>1619531896651</transactionId>
+        <leaseId>13719870</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910017</customerId>
+        <transactionId>1619531896652</transactionId>
+        <leaseId>13719671</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910018</customerId>
+        <transactionId>1619531896653</transactionId>
+        <leaseId>13832676</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910019</customerId>
+        <transactionId>1619531896654</transactionId>
+        <leaseId>13755181</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910021</customerId>
+        <transactionId>1619531896655</transactionId>
+        <leaseId>13834720</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910022</customerId>
+        <transactionId>1619531896656</transactionId>
+        <leaseId>13847754</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910024</customerId>
+        <transactionId>1619531896657</transactionId>
+        <leaseId>13761983</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910025</customerId>
+        <transactionId>1619531896658</transactionId>
+        <leaseId>13719470</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910026</customerId>
+        <transactionId>1619531896659</transactionId>
+        <leaseId>13859817</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910028</customerId>
+        <transactionId>1619531896660</transactionId>
+        <leaseId>13859760</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910029</customerId>
+        <transactionId>1619531896661</transactionId>
+        <leaseId>13719526</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910032</customerId>
+        <transactionId>1619531896662</transactionId>
+        <leaseId>13753278</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910033</customerId>
+        <transactionId>1619531896663</transactionId>
+        <leaseId>13719810</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910036</customerId>
+        <transactionId>1619531896664</transactionId>
+        <leaseId>13756309</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910037</customerId>
+        <transactionId>1619531896665</transactionId>
+        <leaseId>13802128</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910039</customerId>
+        <transactionId>1619531896666</transactionId>
+        <leaseId>13944012</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910044</customerId>
+        <transactionId>1619531896667</transactionId>
+        <leaseId>13929191</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910045</customerId>
+        <transactionId>1619531896668</transactionId>
+        <leaseId>13815611</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910048</customerId>
+        <transactionId>1619531896669</transactionId>
+        <leaseId>13719413</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910050</customerId>
+        <transactionId>1619531896670</transactionId>
+        <leaseId>13719773</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910054</customerId>
+        <transactionId>1619531896671</transactionId>
+        <leaseId>13720055</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910059</customerId>
+        <transactionId>1619531896672</transactionId>
+        <leaseId>13838804</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910060</customerId>
+        <transactionId>1619531896673</transactionId>
+        <leaseId>13719343</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910064</customerId>
+        <transactionId>1619531896674</transactionId>
+        <leaseId>13719777</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910065</customerId>
+        <transactionId>1619531896675</transactionId>
+        <leaseId>13719787</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910068</customerId>
+        <transactionId>1619531896676</transactionId>
+        <leaseId>13902474</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910070</customerId>
+        <transactionId>1619531896677</transactionId>
+        <leaseId>13913776</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910073</customerId>
+        <transactionId>1619531896678</transactionId>
+        <leaseId>13828211</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910074</customerId>
+        <transactionId>1619531896679</transactionId>
+        <leaseId>13719584</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910075</customerId>
+        <transactionId>1619531896680</transactionId>
+        <leaseId>13912243</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910081</customerId>
+        <transactionId>1619531896681</transactionId>
+        <leaseId>13719704</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910084</customerId>
+        <transactionId>1619531896682</transactionId>
+        <leaseId>13772334</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910085</customerId>
+        <transactionId>1619531896683</transactionId>
+        <leaseId>13792127</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910087</customerId>
+        <transactionId>1619531896684</transactionId>
+        <leaseId>13719276</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910090</customerId>
+        <transactionId>1619531896685</transactionId>
+        <leaseId>13719757</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910092</customerId>
+        <transactionId>1619531896686</transactionId>
+        <leaseId>13719817</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910093</customerId>
+        <transactionId>1619531896687</transactionId>
+        <leaseId>13719727</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910095</customerId>
+        <transactionId>1619531896688</transactionId>
+        <leaseId>13926265</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910096</customerId>
+        <transactionId>1619531896689</transactionId>
+        <leaseId>13800472</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910098</customerId>
+        <transactionId>1619531896690</transactionId>
+        <leaseId>13802823</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910099</customerId>
+        <transactionId>1619531896691</transactionId>
+        <leaseId>13837304</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910106</customerId>
+        <transactionId>1619531896692</transactionId>
+        <leaseId>13905761</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910107</customerId>
+        <transactionId>1619531896693</transactionId>
+        <leaseId>13719406</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910109</customerId>
+        <transactionId>1619531896694</transactionId>
+        <leaseId>13815490</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910110</customerId>
+        <transactionId>1619531896695</transactionId>
+        <leaseId>13802523</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910112</customerId>
+        <transactionId>1619531896696</transactionId>
+        <leaseId>13841871</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910113</customerId>
+        <transactionId>1619531896697</transactionId>
+        <leaseId>13719427</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910115</customerId>
+        <transactionId>1619531896698</transactionId>
+        <leaseId>13908129</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910116</customerId>
+        <transactionId>1619531896699</transactionId>
+        <leaseId>13913873</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910117</customerId>
+        <transactionId>1619531896700</transactionId>
+        <leaseId>13719242</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910118</customerId>
+        <transactionId>1619531896701</transactionId>
+        <leaseId>13763241</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910126</customerId>
+        <transactionId>1619531896702</transactionId>
+        <leaseId>13719539</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910128</customerId>
+        <transactionId>1619531896703</transactionId>
+        <leaseId>13765052</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910129</customerId>
+        <transactionId>1619531896704</transactionId>
+        <leaseId>13813987</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910130</customerId>
+        <transactionId>1619531896705</transactionId>
+        <leaseId>13719794</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910133</customerId>
+        <transactionId>1619531896706</transactionId>
+        <leaseId>13926732</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910134</customerId>
+        <transactionId>1619531896707</transactionId>
+        <leaseId>13813299</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910135</customerId>
+        <transactionId>1619531896708</transactionId>
+        <leaseId>13719511</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910136</customerId>
+        <transactionId>1619531896709</transactionId>
+        <leaseId>13847461</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910137</customerId>
+        <transactionId>1619531896710</transactionId>
+        <leaseId>13824844</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910138</customerId>
+        <transactionId>1619531896711</transactionId>
+        <leaseId>13895216</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910144</customerId>
+        <transactionId>1619531896712</transactionId>
+        <leaseId>13719394</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910145</customerId>
+        <transactionId>1619531896713</transactionId>
+        <leaseId>13719734</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910147</customerId>
+        <transactionId>1619531896714</transactionId>
+        <leaseId>13903417</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910148</customerId>
+        <transactionId>1619531896715</transactionId>
+        <leaseId>13909089</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910149</customerId>
+        <transactionId>1619531896716</transactionId>
+        <leaseId>13742017</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910150</customerId>
+        <transactionId>1619531896717</transactionId>
+        <leaseId>13719515</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910152</customerId>
+        <transactionId>1619531896718</transactionId>
+        <leaseId>13719821</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910157</customerId>
+        <transactionId>1619531896719</transactionId>
+        <leaseId>13794316</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910170</customerId>
+        <transactionId>1619531896720</transactionId>
+        <leaseId>13719603</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910174</customerId>
+        <transactionId>1619531896721</transactionId>
+        <leaseId>13849315</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910175</customerId>
+        <transactionId>1619531896722</transactionId>
+        <leaseId>13719508</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910177</customerId>
+        <transactionId>1619531896723</transactionId>
+        <leaseId>13808078</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910178</customerId>
+        <transactionId>1619531896724</transactionId>
+        <leaseId>13807328</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910180</customerId>
+        <transactionId>1619531896725</transactionId>
+        <leaseId>13719501</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910182</customerId>
+        <transactionId>1619531896726</transactionId>
+        <leaseId>13719801</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910183</customerId>
+        <transactionId>1619531896727</transactionId>
+        <leaseId>13719425</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910185</customerId>
+        <transactionId>1619531896728</transactionId>
+        <leaseId>13719709</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910186</customerId>
+        <transactionId>1619531896729</transactionId>
+        <leaseId>13835679</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910194</customerId>
+        <transactionId>1619531896730</transactionId>
+        <leaseId>13764930</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910195</customerId>
+        <transactionId>1619531896731</transactionId>
+        <leaseId>13841956</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910196</customerId>
+        <transactionId>1619531896732</transactionId>
+        <leaseId>13805078</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910197</customerId>
+        <transactionId>1619531896733</transactionId>
+        <leaseId>13719648</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910198</customerId>
+        <transactionId>1619531896734</transactionId>
+        <leaseId>13901629</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910200</customerId>
+        <transactionId>1619531896735</transactionId>
+        <leaseId>13906187</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910202</customerId>
+        <transactionId>1619531896736</transactionId>
+        <leaseId>13822448</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910203</customerId>
+        <transactionId>1619531896737</transactionId>
+        <leaseId>13844845</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910204</customerId>
+        <transactionId>1619531896738</transactionId>
+        <leaseId>13719567</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910209</customerId>
+        <transactionId>1619531896739</transactionId>
+        <leaseId>13901111</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910212</customerId>
+        <transactionId>1619531896740</transactionId>
+        <leaseId>13832763</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910217</customerId>
+        <transactionId>1619531896741</transactionId>
+        <leaseId>13835925</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910221</customerId>
+        <transactionId>1619531896742</transactionId>
+        <leaseId>13719304</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910224</customerId>
+        <transactionId>1619531896743</transactionId>
+        <leaseId>13905110</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910225</customerId>
+        <transactionId>1619531896744</transactionId>
+        <leaseId>13839969</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910235</customerId>
+        <transactionId>1619531896745</transactionId>
+        <leaseId>13719474</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910236</customerId>
+        <transactionId>1619531896746</transactionId>
+        <leaseId>13810232</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910237</customerId>
+        <transactionId>1619531896747</transactionId>
+        <leaseId>13719718</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910240</customerId>
+        <transactionId>1619531896748</transactionId>
+        <leaseId>13921895</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910245</customerId>
+        <transactionId>1619531896749</transactionId>
+        <leaseId>13719517</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910246</customerId>
+        <transactionId>1619531896750</transactionId>
+        <leaseId>13907377</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910253</customerId>
+        <transactionId>1619531896751</transactionId>
+        <leaseId>13792278</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910255</customerId>
+        <transactionId>1619531896752</transactionId>
+        <leaseId>13719282</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910257</customerId>
+        <transactionId>1619531896753</transactionId>
+        <leaseId>13719545</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910259</customerId>
+        <transactionId>1619531896754</transactionId>
+        <leaseId>13742115</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910260</customerId>
+        <transactionId>1619531896755</transactionId>
+        <leaseId>13809950</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910261</customerId>
+        <transactionId>1619531896756</transactionId>
+        <leaseId>13923335</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910265</customerId>
+        <transactionId>1619531896757</transactionId>
+        <leaseId>13839923</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910266</customerId>
+        <transactionId>1619531896758</transactionId>
+        <leaseId>13833488</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910269</customerId>
+        <transactionId>1619531896759</transactionId>
+        <leaseId>13808440</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910271</customerId>
+        <transactionId>1619531896760</transactionId>
+        <leaseId>13719738</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910273</customerId>
+        <transactionId>1619531896761</transactionId>
+        <leaseId>13719512</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910275</customerId>
+        <transactionId>1619531896762</transactionId>
+        <leaseId>13905046</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910278</customerId>
+        <transactionId>1619531896763</transactionId>
+        <leaseId>13719676</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910279</customerId>
+        <transactionId>1619531896764</transactionId>
+        <leaseId>13719220</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910283</customerId>
+        <transactionId>1619531896765</transactionId>
+        <leaseId>13719657</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910287</customerId>
+        <transactionId>1619531896766</transactionId>
+        <leaseId>13757573</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910290</customerId>
+        <transactionId>1619531896767</transactionId>
+        <leaseId>13908351</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910292</customerId>
+        <transactionId>1619531896768</transactionId>
+        <leaseId>13924092</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910295</customerId>
+        <transactionId>1619531896769</transactionId>
+        <leaseId>13719552</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910297</customerId>
+        <transactionId>1619531896770</transactionId>
+        <leaseId>13719365</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910303</customerId>
+        <transactionId>1619531896771</transactionId>
+        <leaseId>13719658</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910304</customerId>
+        <transactionId>1619531896772</transactionId>
+        <leaseId>13719686</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910305</customerId>
+        <transactionId>1619531896773</transactionId>
+        <leaseId>13719473</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910308</customerId>
+        <transactionId>1619531896774</transactionId>
+        <leaseId>13719393</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910309</customerId>
+        <transactionId>1619531896775</transactionId>
+        <leaseId>13925821</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910311</customerId>
+        <transactionId>1619531896776</transactionId>
+        <leaseId>13719729</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910312</customerId>
+        <transactionId>1619531896777</transactionId>
+        <leaseId>13839499</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910314</customerId>
+        <transactionId>1619531896778</transactionId>
+        <leaseId>13920296</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910316</customerId>
+        <transactionId>1619531896779</transactionId>
+        <leaseId>13719607</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910318</customerId>
+        <transactionId>1619531896780</transactionId>
+        <leaseId>13719400</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910321</customerId>
+        <transactionId>1619531896781</transactionId>
+        <leaseId>13719386</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910323</customerId>
+        <transactionId>1619531896782</transactionId>
+        <leaseId>13719597</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910327</customerId>
+        <transactionId>1619531896783</transactionId>
+        <leaseId>13719560</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910329</customerId>
+        <transactionId>1619531896784</transactionId>
+        <leaseId>13719544</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910331</customerId>
+        <transactionId>1619531896785</transactionId>
+        <leaseId>13719850</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910336</customerId>
+        <transactionId>1619531896786</transactionId>
+        <leaseId>13719334</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910337</customerId>
+        <transactionId>1619531896787</transactionId>
+        <leaseId>13719705</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910340</customerId>
+        <transactionId>1619531896788</transactionId>
+        <leaseId>13762311</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910341</customerId>
+        <transactionId>1619531896789</transactionId>
+        <leaseId>13800183</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910346</customerId>
+        <transactionId>1619531896790</transactionId>
+        <leaseId>13828543</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910349</customerId>
+        <transactionId>1619531896791</transactionId>
+        <leaseId>13824746</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910350</customerId>
+        <transactionId>1619531896792</transactionId>
+        <leaseId>13719695</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910352</customerId>
+        <transactionId>1619531896793</transactionId>
+        <leaseId>13719685</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910354</customerId>
+        <transactionId>1619531896794</transactionId>
+        <leaseId>13818072</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910355</customerId>
+        <transactionId>1619531896795</transactionId>
+        <leaseId>13719840</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910358</customerId>
+        <transactionId>1619531896796</transactionId>
+        <leaseId>13719445</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910359</customerId>
+        <transactionId>1619531896797</transactionId>
+        <leaseId>13808799</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910361</customerId>
+        <transactionId>1619531896798</transactionId>
+        <leaseId>13845559</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910363</customerId>
+        <transactionId>1619531896799</transactionId>
+        <leaseId>13805885</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910365</customerId>
+        <transactionId>1619531896800</transactionId>
+        <leaseId>13812280</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910372</customerId>
+        <transactionId>1619531896801</transactionId>
+        <leaseId>13719549</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910373</customerId>
+        <transactionId>1619531896802</transactionId>
+        <leaseId>13849779</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910376</customerId>
+        <transactionId>1619531896803</transactionId>
+        <leaseId>13719583</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910377</customerId>
+        <transactionId>1619531896804</transactionId>
+        <leaseId>13839235</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910379</customerId>
+        <transactionId>1619531896805</transactionId>
+        <leaseId>13831052</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910383</customerId>
+        <transactionId>1619531896806</transactionId>
+        <leaseId>13901625</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910391</customerId>
+        <transactionId>1619531896807</transactionId>
+        <leaseId>13793796</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910392</customerId>
+        <transactionId>1619531896808</transactionId>
+        <leaseId>13719477</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910394</customerId>
+        <transactionId>1619531896809</transactionId>
+        <leaseId>13719731</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910405</customerId>
+        <transactionId>1619531896810</transactionId>
+        <leaseId>13848348</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910409</customerId>
+        <transactionId>1619531896811</transactionId>
+        <leaseId>13907723</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910411</customerId>
+        <transactionId>1619531896812</transactionId>
+        <leaseId>13879356</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910412</customerId>
+        <transactionId>1619531896813</transactionId>
+        <leaseId>13914884</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910413</customerId>
+        <transactionId>1619531896814</transactionId>
+        <leaseId>13762208</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910415</customerId>
+        <transactionId>1619531896815</transactionId>
+        <leaseId>13719764</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910416</customerId>
+        <transactionId>1619531896816</transactionId>
+        <leaseId>13719422</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910420</customerId>
+        <transactionId>1619531896817</transactionId>
+        <leaseId>13808869</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910421</customerId>
+        <transactionId>1619531896818</transactionId>
+        <leaseId>13719667</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910424</customerId>
+        <transactionId>1619531896819</transactionId>
+        <leaseId>13872541</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910425</customerId>
+        <transactionId>1619531896820</transactionId>
+        <leaseId>13719254</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910431</customerId>
+        <transactionId>1619531896821</transactionId>
+        <leaseId>13719247</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910433</customerId>
+        <transactionId>1619531896822</transactionId>
+        <leaseId>13920877</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910434</customerId>
+        <transactionId>1619531896823</transactionId>
+        <leaseId>13719299</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910437</customerId>
+        <transactionId>1619531896824</transactionId>
+        <leaseId>13754038</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910441</customerId>
+        <transactionId>1619531896825</transactionId>
+        <leaseId>13838754</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910443</customerId>
+        <transactionId>1619531896826</transactionId>
+        <leaseId>13719244</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910445</customerId>
+        <transactionId>1619531896827</transactionId>
+        <leaseId>13902911</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910446</customerId>
+        <transactionId>1619531896828</transactionId>
+        <leaseId>13719644</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910448</customerId>
+        <transactionId>1619531896829</transactionId>
+        <leaseId>13719662</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910453</customerId>
+        <transactionId>1619531896830</transactionId>
+        <leaseId>13719858</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910455</customerId>
+        <transactionId>1619531896831</transactionId>
+        <leaseId>13719527</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910468</customerId>
+        <transactionId>1619531896832</transactionId>
+        <leaseId>13903392</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910469</customerId>
+        <transactionId>1619531896833</transactionId>
+        <leaseId>13904727</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910472</customerId>
+        <transactionId>1619531896834</transactionId>
+        <leaseId>13719733</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910474</customerId>
+        <transactionId>1619531896835</transactionId>
+        <leaseId>13809148</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910476</customerId>
+        <transactionId>1619531896836</transactionId>
+        <leaseId>13811818</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910479</customerId>
+        <transactionId>1619531896837</transactionId>
+        <leaseId>13777554</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910482</customerId>
+        <transactionId>1619531896838</transactionId>
+        <leaseId>13719728</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910484</customerId>
+        <transactionId>1619531896839</transactionId>
+        <leaseId>13719808</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910490</customerId>
+        <transactionId>1619531896840</transactionId>
+        <leaseId>13789047</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910492</customerId>
+        <transactionId>1619531896841</transactionId>
+        <leaseId>13719227</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910493</customerId>
+        <transactionId>1619531896842</transactionId>
+        <leaseId>13719758</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910494</customerId>
+        <transactionId>1619531896843</transactionId>
+        <leaseId>13831634</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910497</customerId>
+        <transactionId>1619531896844</transactionId>
+        <leaseId>13798111</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910498</customerId>
+        <transactionId>1619531896845</transactionId>
+        <leaseId>13828029</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910501</customerId>
+        <transactionId>1619531896846</transactionId>
+        <leaseId>13719484</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910503</customerId>
+        <transactionId>1619531896847</transactionId>
+        <leaseId>13719668</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910505</customerId>
+        <transactionId>1619531896848</transactionId>
+        <leaseId>13719639</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910511</customerId>
+        <transactionId>1619531896849</transactionId>
+        <leaseId>13719556</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910512</customerId>
+        <transactionId>1619531896850</transactionId>
+        <leaseId>13909748</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910520</customerId>
+        <transactionId>1619531896851</transactionId>
+        <leaseId>13719649</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910522</customerId>
+        <transactionId>1619531896852</transactionId>
+        <leaseId>13751619</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910525</customerId>
+        <transactionId>1619531896853</transactionId>
+        <leaseId>13842997</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910526</customerId>
+        <transactionId>1619531896854</transactionId>
+        <leaseId>13719816</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910530</customerId>
+        <transactionId>1619531896855</transactionId>
+        <leaseId>13719225</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>910532</customerId>
+        <transactionId>1619531896856</transactionId>
+        <leaseId>13719322</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>915284</customerId>
+        <transactionId>1619531896857</transactionId>
+        <leaseId>13929157</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>915320</customerId>
+        <transactionId>1619531896858</transactionId>
+        <leaseId>13916638</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>915335</customerId>
+        <transactionId>1619531896859</transactionId>
+        <leaseId>13914516</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>915338</customerId>
+        <transactionId>1619531896860</transactionId>
+        <leaseId>13911601</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>915341</customerId>
+        <transactionId>1619531896861</transactionId>
+        <leaseId>13926930</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>915358</customerId>
+        <transactionId>1619531896862</transactionId>
+        <leaseId>13930854</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>915367</customerId>
+        <transactionId>1619531896863</transactionId>
+        <leaseId>13895679</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>915371</customerId>
+        <transactionId>1619531896864</transactionId>
+        <leaseId>13929567</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>915372</customerId>
+        <transactionId>1619531896865</transactionId>
+        <leaseId>13927514</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>915383</customerId>
+        <transactionId>1619531896866</transactionId>
+        <leaseId>13913346</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>915391</customerId>
+        <transactionId>1619531896867</transactionId>
+        <leaseId>13905672</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>923574</customerId>
+        <transactionId>1619531896868</transactionId>
+        <leaseId>13932734</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>923630</customerId>
+        <transactionId>1619531896869</transactionId>
+        <leaseId>13928289</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>923657</customerId>
+        <transactionId>1619531896870</transactionId>
+        <leaseId>13888482</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>923660</customerId>
+        <transactionId>1619531896871</transactionId>
+        <leaseId>13929429</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>927869</customerId>
+        <transactionId>1619531896872</transactionId>
+        <leaseId>13912851</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>930488</customerId>
+        <transactionId>1619531896873</transactionId>
+        <leaseId>13942242</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>930503</customerId>
+        <transactionId>1619531896874</transactionId>
+        <leaseId>13921208</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>930505</customerId>
+        <transactionId>1619531896875</transactionId>
+        <leaseId>13939408</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>930518</customerId>
+        <transactionId>1619531896876</transactionId>
+        <leaseId>13934841</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>930520</customerId>
+        <transactionId>1619531896877</transactionId>
+        <leaseId>13931237</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>931709</customerId>
+        <transactionId>1619531896878</transactionId>
+        <leaseId>13935696</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>931725</customerId>
+        <transactionId>1619531896879</transactionId>
+        <leaseId>13816957</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>931739</customerId>
+        <transactionId>1619531896880</transactionId>
+        <leaseId>13942271</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>932868</customerId>
+        <transactionId>1619531896881</transactionId>
+        <leaseId>13940053</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>933497</customerId>
+        <transactionId>1619531896882</transactionId>
+        <leaseId>13943510</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>937368</customerId>
+        <transactionId>1619531896883</transactionId>
+        <leaseId>13948757</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>937435</customerId>
+        <transactionId>1619531896884</transactionId>
+        <leaseId>13943748</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>937448</customerId>
+        <transactionId>1619531896885</transactionId>
+        <leaseId>13942677</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>937870</customerId>
+        <transactionId>1619531896886</transactionId>
+        <leaseId>13944941</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>938324</customerId>
+        <transactionId>1619531896887</transactionId>
+        <leaseId>13935538</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>938872</customerId>
+        <transactionId>1619531896888</transactionId>
+        <leaseId>13946004</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>963180</customerId>
+        <transactionId>1619531896889</transactionId>
+        <leaseId>13719646</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>963181</customerId>
+        <transactionId>1619531896890</transactionId>
+        <leaseId>13951528</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>963185</customerId>
+        <transactionId>1619531896891</transactionId>
+        <leaseId>13945122</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>963192</customerId>
+        <transactionId>1619531896892</transactionId>
+        <leaseId>13949047</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>968594</customerId>
+        <transactionId>1619531896893</transactionId>
+        <leaseId>13948756</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>968603</customerId>
+        <transactionId>1619531896894</transactionId>
+        <leaseId>13944793</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>968607</customerId>
+        <transactionId>1619531896895</transactionId>
+        <leaseId>13952698</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>968611</customerId>
+        <transactionId>1619531896896</transactionId>
+        <leaseId>13944781</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>968612</customerId>
+        <transactionId>1619531896897</transactionId>
+        <leaseId>13951760</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>968616</customerId>
+        <transactionId>1619531896898</transactionId>
+        <leaseId>13952115</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>968618</customerId>
+        <transactionId>1619531896899</transactionId>
+        <leaseId>13953094</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>968622</customerId>
+        <transactionId>1619531896900</transactionId>
+        <leaseId>13944724</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>968623</customerId>
+        <transactionId>1619531896901</transactionId>
+        <leaseId>13954212</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>968625</customerId>
+        <transactionId>1619531896902</transactionId>
+        <leaseId>13951763</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>973565</customerId>
+        <transactionId>1619531896903</transactionId>
+        <leaseId>13777379</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>975648</customerId>
+        <transactionId>1619531896904</transactionId>
+        <leaseId>13965843</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>977600</customerId>
+        <transactionId>1619531896905</transactionId>
+        <leaseId>13957974</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>977609</customerId>
+        <transactionId>1619531896906</transactionId>
+        <leaseId>13958556</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>977613</customerId>
+        <transactionId>1619531896907</transactionId>
+        <leaseId>13957969</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>977614</customerId>
+        <transactionId>1619531896908</transactionId>
+        <leaseId>13964894</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>977618</customerId>
+        <transactionId>1619531896909</transactionId>
+        <leaseId>13956813</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>977621</customerId>
+        <transactionId>1619531896910</transactionId>
+        <leaseId>13953062</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>981412</customerId>
+        <transactionId>1619531896911</transactionId>
+        <leaseId>13967004</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>981413</customerId>
+        <transactionId>1619531896912</transactionId>
+        <leaseId>13957862</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>981428</customerId>
+        <transactionId>1619531896913</transactionId>
+        <leaseId>13953593</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>982691</customerId>
+        <transactionId>1619531896914</transactionId>
+        <leaseId>13962486</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>982692</customerId>
+        <transactionId>1619531896915</transactionId>
+        <leaseId>13966664</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>982697</customerId>
+        <transactionId>1619531896916</transactionId>
+        <leaseId>13961697</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>983387</customerId>
+        <transactionId>1619531896917</transactionId>
+        <leaseId>13953741</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>984281</customerId>
+        <transactionId>1619531896918</transactionId>
+        <leaseId>13966652</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>984283</customerId>
+        <transactionId>1619531896919</transactionId>
+        <leaseId>13966587</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>984622</customerId>
+        <transactionId>1619531896920</transactionId>
+        <leaseId>13954479</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>984623</customerId>
+        <transactionId>1619531896921</transactionId>
+        <leaseId>13962242</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>984627</customerId>
+        <transactionId>1619531896922</transactionId>
+        <leaseId>13969084</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>989493</customerId>
+        <transactionId>1619531896923</transactionId>
+        <leaseId>13953903</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>989494</customerId>
+        <transactionId>1619531896924</transactionId>
+        <leaseId>13952995</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>989497</customerId>
+        <transactionId>1619531896925</transactionId>
+        <leaseId>13985306</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>989507</customerId>
+        <transactionId>1619531896926</transactionId>
+        <leaseId>13985541</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>989525</customerId>
+        <transactionId>1619531896927</transactionId>
+        <leaseId>13968416</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>992900</customerId>
+        <transactionId>1619531896928</transactionId>
+        <leaseId>13965469</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>994131</customerId>
+        <transactionId>1619531896929</transactionId>
+        <leaseId>13989189</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>994400</customerId>
+        <transactionId>1619531896930</transactionId>
+        <leaseId>13993990</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>994401</customerId>
+        <transactionId>1619531896931</transactionId>
+        <leaseId>13908409</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>994402</customerId>
+        <transactionId>1619531896932</transactionId>
+        <leaseId>13999031</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>994404</customerId>
+        <transactionId>1619531896933</transactionId>
+        <leaseId>14001797</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>994405</customerId>
+        <transactionId>1619531896934</transactionId>
+        <leaseId>13930308</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>996237</customerId>
+        <transactionId>1619531896935</transactionId>
+        <leaseId>13956360</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1012784</customerId>
+        <transactionId>1619531896936</transactionId>
+        <leaseId>14003114</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1012785</customerId>
+        <transactionId>1619531896937</transactionId>
+        <leaseId>14002768</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1012786</customerId>
+        <transactionId>1619531896938</transactionId>
+        <leaseId>14000600</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1012788</customerId>
+        <transactionId>1619531896939</transactionId>
+        <leaseId>13975549</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1012789</customerId>
+        <transactionId>1619531896940</transactionId>
+        <leaseId>13961336</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1012790</customerId>
+        <transactionId>1619531896941</transactionId>
+        <leaseId>14002031</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1012791</customerId>
+        <transactionId>1619531896942</transactionId>
+        <leaseId>13966250</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1014088</customerId>
+        <transactionId>1619531896943</transactionId>
+        <leaseId>14005410</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1015348</customerId>
+        <transactionId>1619531896944</transactionId>
+        <leaseId>13973168</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1016670</customerId>
+        <transactionId>1619531896945</transactionId>
+        <leaseId>14007163</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1019115</customerId>
+        <transactionId>1619531896946</transactionId>
+        <leaseId>13996029</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1019117</customerId>
+        <transactionId>1619531896947</transactionId>
+        <leaseId>13920314</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1019118</customerId>
+        <transactionId>1619531896948</transactionId>
+        <leaseId>13983409</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1020515</customerId>
+        <transactionId>1619531896949</transactionId>
+        <leaseId>13979360</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1021536</customerId>
+        <transactionId>1619531896950</transactionId>
+        <leaseId>13990235</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1021537</customerId>
+        <transactionId>1619531896951</transactionId>
+        <leaseId>14008816</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1022420</customerId>
+        <transactionId>1619531896952</transactionId>
+        <leaseId>14015517</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1022421</customerId>
+        <transactionId>1619531896953</transactionId>
+        <leaseId>14016402</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1025321</customerId>
+        <transactionId>1619531896954</transactionId>
+        <leaseId>14016922</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1025323</customerId>
+        <transactionId>1619531896955</transactionId>
+        <leaseId>14020156</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1025324</customerId>
+        <transactionId>1619531896956</transactionId>
+        <leaseId>14020239</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1025326</customerId>
+        <transactionId>1619531896957</transactionId>
+        <leaseId>14009427</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1025327</customerId>
+        <transactionId>1619531896958</transactionId>
+        <leaseId>14008296</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1026973</customerId>
+        <transactionId>1619531896959</transactionId>
+        <leaseId>14009660</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1042385</customerId>
+        <transactionId>1619531896960</transactionId>
+        <leaseId>14001949</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1043697</customerId>
+        <transactionId>1619531896961</transactionId>
+        <leaseId>13993742</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1043698</customerId>
+        <transactionId>1619531896962</transactionId>
+        <leaseId>14009852</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1067405</customerId>
+        <transactionId>1619531896963</transactionId>
+        <leaseId>13719807</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1067406</customerId>
+        <transactionId>1619531896964</transactionId>
+        <leaseId>13719363</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1067407</customerId>
+        <transactionId>1619531896965</transactionId>
+        <leaseId>13720021</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1067408</customerId>
+        <transactionId>1619531896966</transactionId>
+        <leaseId>13719353</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1067409</customerId>
+        <transactionId>1619531896967</transactionId>
+        <leaseId>13719318</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1067410</customerId>
+        <transactionId>1619531896968</transactionId>
+        <leaseId>13719857</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1067411</customerId>
+        <transactionId>1619531896969</transactionId>
+        <leaseId>13742024</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1071837</customerId>
+        <transactionId>1619531896970</transactionId>
+        <leaseId>13912025</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1071838</customerId>
+        <transactionId>1619531896971</transactionId>
+        <leaseId>13958420</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1071839</customerId>
+        <transactionId>1619531896972</transactionId>
+        <leaseId>14008641</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1071840</customerId>
+        <transactionId>1619531896973</transactionId>
+        <leaseId>14021417</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1073653</customerId>
+        <transactionId>1619531896974</transactionId>
+        <leaseId>13966916</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1076289</customerId>
+        <transactionId>1619531896975</transactionId>
+        <leaseId>14015426</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1077409</customerId>
+        <transactionId>1619531896976</transactionId>
+        <leaseId>14017225</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1077410</customerId>
+        <transactionId>1619531896977</transactionId>
+        <leaseId>14002310</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1077411</customerId>
+        <transactionId>1619531896978</transactionId>
+        <leaseId>14018697</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1077412</customerId>
+        <transactionId>1619531896979</transactionId>
+        <leaseId>14003127</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+    <charges>
+        <communityId>640821</communityId>
+        <customerId>1077413</customerId>
+        <transactionId>1619531896980</transactionId>
+        <leaseId>14023926</leaseId>
+        <serviceToDate>2021-05-01</serviceToDate>
+        <chargeCode>156401</chargeCode>
+        <amount>13.00</amount>
+        <description>Tenant Legal Liability (05/2021)</description>
+    </charges>
+</chargesDtoHolder>
