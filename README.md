@@ -1,9 +1,12 @@
-# Leasetrack Charges XML Check
-> ### Code located at `main.py`
-
+# Leasetrack Charges XML Check  
+  
+***
+  
+### Code located at `main.py`  
 ### Setup:  
-1. Clone project and open project in VS Code
-2. Install depndencies 
+1. Clone project into Github Desktop
+2. Open project in VS Code
+3. Install depndencies 
    1. Make sure you have [python virtual environment](https://code.visualstudio.com/docs/python/environments) setup
    2. In project terminal ```pip install -r requirements.txt```
 
