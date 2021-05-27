@@ -1,11 +1,11 @@
 # Leasetrack Charges XML Check
+> ### Code located at `main.py`
 
 ### Setup:  
 1. Clone project and open project in VS Code
 2. Install depndencies 
    1. Make sure you have [python virtual environment](https://code.visualstudio.com/docs/python/environments) setup
-   2. In project terminal `pip install -r requirements.txt`
-
+   2. In project terminal ```pip install -r requirements.txt```
 
 ### Usage:
 1. Create input and output folder to read from and write to as `[manager]-in` and `[manager]-out`
